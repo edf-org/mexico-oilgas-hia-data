@@ -20,14 +20,15 @@ This repository accompanies the forthcoming manuscript:
 
 ## What is in this repository
 
-This repository is the **citable landing page** for the study's inputs and results. Because the full input dataset is approximately **5 GB**, the large raw input files are archived on **Zenodo** (which is designed to host large research datasets and issues a permanent DOI), while this GitHub repository holds the documentation and the compact tabular results.
+This repository holds the **complete ~5 GB input dataset and the results** for the study. The repository is organized into numbered folders (see [Input file descriptions](#input-file-descriptions) below):
 
-| Location | Contents |
+| Contents | |
 |---|---|
-| **This GitHub repository** | This README (methods + full input-file descriptions), the [`MANIFEST.md`](MANIFEST.md) inventory of every archived file, and the complete **attributable-burden results** in [`06_Results/`](06_Results/). |
-| **Zenodo archive** | The full ~5 GB input dataset: risk functions, raw health data, population data, and geographic layers (folders `01`–`05`), plus a copy of these results. |
+| `01_RiskFunctions/` … `05_Misc/` | The full input dataset — risk functions, raw health data, population data, and geographic layers (~5 GB). |
+| [`06_Results/`](06_Results/) | The complete **attributable-burden results** (CSV tables). |
+| [`README.md`](README.md) / [`MANIFEST.md`](MANIFEST.md) | Methods summary, file-by-file descriptions, and the full inventory of every file. |
 
-> **Zenodo DOI:** `10.5281/zenodo.XXXXXXX` *(to be inserted once the Zenodo record is published)*
+> **Large files & Git LFS.** Several raw input files exceed GitHub's 100 MB per-file limit, so folders `01`–`05` are stored with **[Git LFS](https://git-lfs.com)**. To get the actual data files (not LFS pointer files) when cloning, install Git LFS first (`git lfs install`) and clone normally, or run `git lfs pull` in an existing clone.
 
 The **analysis code is intentionally not included here.** This repository documents the inputs and the published results so they can be cited, inspected, and reused; it is not a software release.
 
@@ -110,12 +111,12 @@ When reusing these inputs, please cite the original data providers in addition t
 
 ## How to cite
 
-Until the manuscript is published, please cite the Zenodo archive (DOI above). The full bibliographic reference will be added here on publication.
+Please cite this repository and the associated manuscript. The full bibliographic reference and any dataset DOI will be added here on publication.
 
 ## License
 
 - **Results and documentation** produced by the authors (this README, `MANIFEST.md`, and `06_Results/`) are released under **CC BY 4.0**.
-- **Third-party raw inputs** archived on Zenodo remain under the licenses and terms of their respective providers (IHME/GBD, INEGI, CONAPO, ESA/Copernicus, and the cited publications).
+- **Third-party raw inputs** in folders `01`–`05` remain under the licenses and terms of their respective providers (IHME/GBD, INEGI, CONAPO, ESA/Copernicus, and the cited publications).
 
 ## Contact
 

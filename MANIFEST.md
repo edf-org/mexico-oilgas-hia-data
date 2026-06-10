@@ -4,8 +4,8 @@ Complete file-by-file inventory of the Health Impact Assessment dataset for the 
 *"Estimating the air pollutant-attributable health burden of the oil and gas sector in Mexico using a TROPOMI flux-divergence approach."*
 
 - **Total:** 205 files, ≈5.08 GB across folders `01`–`06`.
-- Folders `01_RiskFunctions`, `02_HealthData_raw`, `04_PopulationData_raw`, and `05_Misc` are archived on **Zenodo** (DOI in `README.md`).
-- Folder `06_Results` is included directly in this GitHub repository.
+- Folders `01_RiskFunctions`, `02_HealthData_raw`, `04_PopulationData_raw`, and `05_Misc` are stored with **Git LFS** (several files exceed GitHub's 100 MB limit). Run `git lfs pull` to fetch them.
+- Folder `06_Results` is stored as normal Git (small CSV tables).
 
 See `README.md` for descriptions of each folder and the methods.
 
