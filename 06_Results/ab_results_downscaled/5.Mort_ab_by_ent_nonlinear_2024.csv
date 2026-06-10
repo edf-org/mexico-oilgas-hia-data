@@ -1,0 +1,65 @@
+cveent,entidad,pollutant,exp_type,temporality,cause,health_outcome,icd_10,age_group,reference,crf_type,analysis_type,total_dths,ab_dths_mean,ab_dths_lower,ab_dths_upper,paf
+01,Aguascalientes,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,5856,439.57,407.48,471.14,0.0751
+01,Aguascalientes,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,5856,439.57,407.48,471.14,0.0751
+02,Baja California,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,18240,1910.33,1753.13,2081.63,0.1047
+02,Baja California,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,18240,1898.39,1743.39,2066.94,0.1041
+03,Baja California Sur,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,3564,175.61,133.17,210.36,0.0493
+03,Baja California Sur,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,3564,175.15,132.74,210.01,0.0491
+04,Campeche,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,4960,429.83,401.83,463.5,0.0867
+04,Campeche,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,4960,432.62,404.46,466.45,0.0872
+05,Coahuila,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,16762,1115.82,989.66,1223.5,0.0666
+05,Coahuila,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,16762,1115.38,988.97,1223.17,0.0665
+06,Colima,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,4384,359.31,335.64,387.15,0.082
+06,Colima,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,4384,358.4,334.7,386.18,0.0818
+07,Chiapas,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,26782,2851.1,2623.47,3105.35,0.1065
+07,Chiapas,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,26782,2866.08,2635.72,3123.3,0.107
+08,Chihuahua,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,21185,1413.42,1185.94,1647.16,0.0667
+08,Chihuahua,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,21185,1411.8,1184.23,1645.91,0.0666
+09,Ciudad de México,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,61214,13174.64,11019.33,15191.75,0.2152
+09,Ciudad de México,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,61214,13144.18,10997.43,15156.84,0.2147
+10,Durango,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,7818,423.81,334.89,493.32,0.0542
+10,Durango,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,7818,423.9,335.07,493.39,0.0542
+11,Guanajuato,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,32687,3228.31,3004.84,3495.12,0.0988
+11,Guanajuato,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,32687,3226.68,3003.55,3493.27,0.0987
+12,Guerrero,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,13298,991.67,892.44,1084.42,0.0746
+12,Guerrero,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,13298,994.81,897.28,1087.1,0.0748
+13,Hidalgo,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,15135,2185.45,1929.08,2442.14,0.1444
+13,Hidalgo,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,15135,2190.16,1932.64,2447.82,0.1447
+14,Jalisco,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,47284,4696.35,4369.59,5083.03,0.0993
+14,Jalisco,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,47284,4677,4353.41,5061.68,0.0989
+15,México,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,85689,16606.84,14069.79,19013.57,0.1938
+15,México,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,85689,16590.78,14058.33,18993.57,0.1936
+16,Michoacán,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,23520,2350.89,2179.73,2550.09,0.1
+16,Michoacán,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,23520,2346.92,2176.19,2545.58,0.0998
+17,Morelos,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,12847,1785.91,1585.98,1987.58,0.139
+17,Morelos,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,12847,1784.92,1585.21,1986.42,0.1389
+18,Nayarit,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,5924,401.33,360.03,437.37,0.0677
+18,Nayarit,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,5924,401.12,359.84,437.2,0.0677
+19,Nuevo León,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,31682,2941.04,2753.55,3170.3,0.0928
+19,Nuevo León,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,31682,2942.05,2754.67,3171.27,0.0929
+20,Oaxaca,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,24586,1892.14,1742.41,2047.14,0.077
+20,Oaxaca,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,24586,1905.11,1756.06,2060.68,0.0775
+21,Puebla,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,36628,3755.07,3477.44,4074.81,0.1025
+21,Puebla,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,36628,3767.97,3489.18,4089.31,0.1029
+22,Querétaro,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,11229,1276.24,1171.46,1392.4,0.1137
+22,Querétaro,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,11229,1277.89,1172.75,1394.26,0.1138
+23,Quintana Roo,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,7244,478.38,425.15,525.74,0.066
+23,Quintana Roo,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,7244,478.49,425.31,525.82,0.0661
+24,San Luis Potosí,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,16196,1405.67,1305.79,1520.86,0.0868
+24,San Luis Potosí,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,16196,1410.29,1309.93,1526.12,0.0871
+25,Sinaloa,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,12274,785.92,683.3,870.46,0.064
+25,Sinaloa,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,12274,785.58,682.8,870.12,0.064
+26,Sonora,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,16120,942.54,759.74,1084.44,0.0585
+26,Sonora,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,16120,934.34,751.69,1077.67,0.058
+27,Tabasco,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,13021,1556.39,1418.61,1703.83,0.1195
+27,Tabasco,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,13021,1573.55,1430.82,1724.2,0.1208
+28,Tamaulipas,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,16774,1270.72,1178.58,1365.33,0.0758
+28,Tamaulipas,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,16774,1275.32,1183.56,1369.93,0.076
+29,Tlaxcala,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,6505,771.62,702.49,845.42,0.1186
+29,Tlaxcala,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,6505,772.61,703.42,846.49,0.1188
+30,Veracruz,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,54897,5147.63,4823.62,5555.59,0.0938
+30,Veracruz,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,54897,5189.63,4861.48,5602.25,0.0945
+31,Yucatán,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,14437,1012.37,929.74,1090.63,0.0701
+31,Yucatán,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,14437,1013.33,930.53,1091.35,0.0702
+32,Zacatecas,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,8390,515.56,438.08,580.04,0.0614
+32,Zacatecas,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,8390,517.72,440.5,581.78,0.0617

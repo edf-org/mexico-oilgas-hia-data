@@ -1,0 +1,129 @@
+cveent,entidad,pollutant,exp_type,temporality,cause,health_outcome,icd_10,age_group,reference,crf_type,analysis_type,total_incid,ab_incid_mean,ab_incid_lower,ab_incid_upper,paf
+01,Aguascalientes,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1214,40.77,16.96,55.04,0.0336
+01,Aguascalientes,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1214,40.38,16.79,54.51,0.0333
+01,Aguascalientes,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1214,253.6,89.2,393.01,0.2089
+01,Aguascalientes,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1214,253.42,89.13,392.74,0.2087
+02,Baja California,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2426,6.18,2.57,8.35,0.0025
+02,Baja California,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2426,6.12,2.54,8.27,0.0025
+02,Baja California,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2426,736.64,270.84,1096.49,0.3036
+02,Baja California,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2426,733.7,269.6,1092.69,0.3024
+03,Baja California Sur,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,717,7,2.89,9.49,0.0098
+03,Baja California Sur,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,717,6.93,2.86,9.39,0.0097
+03,Baja California Sur,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,717,85.86,29.18,137.49,0.1197
+03,Baja California Sur,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,717,85.39,29.01,136.78,0.1191
+04,Campeche,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,673,5.38,2.22,7.3,0.008
+04,Campeche,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,673,5.33,2.2,7.23,0.0079
+04,Campeche,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,673,166.47,59.54,254.02,0.2474
+04,Campeche,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,673,167.05,59.77,254.81,0.2482
+05,Coahuila,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2217,78.87,32.98,106.14,0.0356
+05,Coahuila,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2217,78.99,33.02,106.31,0.0356
+05,Coahuila,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2217,365.97,126.65,575.97,0.1651
+05,Coahuila,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2217,366.08,126.69,576.13,0.1651
+06,Colima,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,789,11.64,4.82,15.77,0.0148
+06,Colima,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,789,11.51,4.76,15.6,0.0146
+06,Colima,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,789,172.44,60.99,265.89,0.2186
+06,Colima,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,789,172.44,60.99,265.9,0.2186
+07,Chiapas,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2395,36.26,15.03,49.05,0.0151
+07,Chiapas,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2395,37.35,15.49,50.52,0.0156
+07,Chiapas,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2395,718.67,264.32,1069.82,0.3001
+07,Chiapas,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2395,723.1,266.2,1075.52,0.3019
+08,Chihuahua,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,4012,130,54.19,175.29,0.0324
+08,Chihuahua,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,4012,129.13,53.82,174.12,0.0322
+08,Chihuahua,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,4012,612.74,215.36,952.31,0.1527
+08,Chihuahua,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,4012,611.96,215.08,951.12,0.1525
+09,Ciudad de México,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,7286,1890.59,849.96,2437.78,0.2595
+09,Ciudad de México,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,7286,1880.35,844.91,2425.31,0.2581
+09,Ciudad de México,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,7286,3975.88,1650.93,5333.9,0.5457
+09,Ciudad de México,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,7286,3972.52,1649.07,5330.59,0.5452
+10,Durango,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1413,57.75,24.15,77.71,0.0409
+10,Durango,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1413,57.31,23.96,77.12,0.0406
+10,Durango,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1413,186.99,63.88,297.93,0.1323
+10,Durango,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1413,187.23,63.97,298.3,0.1325
+11,Guanajuato,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1667,88.99,37.31,119.58,0.0534
+11,Guanajuato,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1667,88.03,36.9,118.3,0.0528
+11,Guanajuato,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1667,425.32,152.67,646.89,0.2551
+11,Guanajuato,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1667,424.44,152.32,645.68,0.2546
+12,Guerrero,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1123,17.45,7.23,23.62,0.0155
+12,Guerrero,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1123,17.25,7.15,23.35,0.0154
+12,Guerrero,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1123,216.46,76.12,335.79,0.1928
+12,Guerrero,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1123,216.9,76.27,336.45,0.1931
+13,Hidalgo,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1667,69.32,28.97,93.32,0.0416
+13,Hidalgo,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1667,70,29.25,94.24,0.042
+13,Hidalgo,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1667,636.56,243.16,916.62,0.3819
+13,Hidalgo,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1667,638.43,243.98,918.97,0.383
+14,Jalisco,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,5059,368.32,156.62,490.72,0.0728
+14,Jalisco,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,5059,365.35,155.32,486.84,0.0722
+14,Jalisco,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,5059,1399.98,507.68,2109.51,0.2767
+14,Jalisco,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,5059,1396.92,506.43,2105.43,0.2761
+15,México,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,6594,700.96,304.02,923.3,0.1063
+15,México,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,6594,696.08,301.81,917.02,0.1056
+15,México,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,6594,3240.85,1309.89,4447.81,0.4915
+15,México,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,6594,3239.25,1309.08,4446.07,0.4912
+16,Michoacán,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2056,53.09,22.04,71.76,0.0258
+16,Michoacán,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2056,52.49,21.79,70.95,0.0255
+16,Michoacán,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2056,537.9,193.97,814.83,0.2616
+16,Michoacán,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2056,537.41,193.77,814.18,0.2614
+17,Morelos,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,935,43.03,17.98,57.94,0.046
+17,Morelos,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,935,42.54,17.78,57.28,0.0455
+17,Morelos,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,935,362.23,138.13,521.84,0.3874
+17,Morelos,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,935,361.47,137.78,520.94,0.3866
+18,Nayarit,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,951,24.22,10.07,32.71,0.0255
+18,Nayarit,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,951,24,9.98,32.41,0.0252
+18,Nayarit,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,951,169.06,58.78,264.85,0.1778
+18,Nayarit,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,951,168.96,58.75,264.71,0.1777
+19,Nuevo León,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3308,118,49.25,158.99,0.0357
+19,Nuevo León,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3308,117.97,49.23,158.95,0.0357
+19,Nuevo León,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3308,825.15,295.65,1257.15,0.2494
+19,Nuevo León,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3308,826.05,295.99,1258.4,0.2497
+20,Oaxaca,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1076,16.24,6.74,21.97,0.0151
+20,Oaxaca,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1076,16.62,6.89,22.47,0.0154
+20,Oaxaca,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1076,230.9,81.63,356.2,0.2146
+20,Oaxaca,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1076,232.55,82.28,358.52,0.2161
+21,Puebla,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,792,31.49,13.17,42.39,0.0398
+21,Puebla,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,792,31.8,13.29,42.81,0.0402
+21,Puebla,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,792,227,82.67,340.73,0.2866
+21,Puebla,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,792,227.82,83.01,341.82,0.2877
+22,Querétaro,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,419,22.14,9.3,29.71,0.0528
+22,Querétaro,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,419,22.02,9.25,29.55,0.0526
+22,Querétaro,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,419,125.7,46,187.84,0.3
+22,Querétaro,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,419,125.96,46.11,188.18,0.3006
+23,Quintana Roo,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1410,11.05,4.56,14.98,0.0078
+23,Quintana Roo,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1410,10.95,4.52,14.85,0.0078
+23,Quintana Roo,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1410,234.17,80.99,368.71,0.1661
+23,Quintana Roo,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1410,234.4,81.08,369.04,0.1662
+24,San Luis Potosí,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1554,60.76,25.42,81.75,0.0391
+24,San Luis Potosí,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1554,61.11,25.56,82.22,0.0393
+24,San Luis Potosí,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1554,391.29,140.44,595.25,0.2518
+24,San Luis Potosí,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,1554,392.72,141.02,597.17,0.2527
+25,Sinaloa,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3411,80.73,33.51,109.11,0.0237
+25,Sinaloa,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3411,79.89,33.16,107.99,0.0234
+25,Sinaloa,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3411,570.29,197.37,897.41,0.1672
+25,Sinaloa,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3411,569.61,197.12,896.4,0.167
+26,Sonora,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2700,74.24,30.88,100.22,0.0275
+26,Sonora,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2700,73.62,30.62,99.4,0.0273
+26,Sonora,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2700,353.22,120.74,562.56,0.1308
+26,Sonora,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2700,352.39,120.43,561.34,0.1305
+27,Tabasco,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2704,54.12,22.44,73.22,0.02
+27,Tabasco,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2704,58.45,24.24,79.04,0.0216
+27,Tabasco,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2704,901.58,334.73,1329.7,0.3334
+27,Tabasco,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,2704,907.85,337.42,1337.66,0.3357
+28,Tamaulipas,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,6120,118.72,49.2,160.65,0.0194
+28,Tamaulipas,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,6120,125.43,51.99,169.68,0.0205
+28,Tamaulipas,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,6120,1295.9,456.59,2005.16,0.2117
+28,Tamaulipas,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,6120,1302.85,459.26,2014.99,0.2129
+29,Tlaxcala,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,235,9.45,3.94,12.73,0.0402
+29,Tlaxcala,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,235,9.43,3.93,12.71,0.0401
+29,Tlaxcala,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,235,76.15,28.16,112.71,0.324
+29,Tlaxcala,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,235,76.34,28.24,112.95,0.3249
+30,Veracruz,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,4423,87.74,36.42,118.61,0.0198
+30,Veracruz,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,4423,94.83,39.38,128.16,0.0214
+30,Veracruz,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,4423,1158.28,416.59,1758.27,0.2619
+30,Veracruz,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,4423,1168.83,420.81,1772.63,0.2643
+31,Yucatán,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3502,52.83,21.89,71.48,0.0151
+31,Yucatán,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3502,52.39,21.71,70.88,0.015
+31,Yucatán,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3502,642.69,223.79,1005.47,0.1835
+31,Yucatán,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,3502,645.2,224.73,1009.12,0.1842
+32,Zacatecas,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,586,7.22,2.99,9.78,0.0123
+32,Zacatecas,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,586,7.15,2.96,9.69,0.0122
+32,Zacatecas,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,586,86.96,29.89,137.74,0.1484
+32,Zacatecas,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,586,87.01,29.91,137.82,0.1485

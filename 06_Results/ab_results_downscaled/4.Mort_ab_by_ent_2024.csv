@@ -1,0 +1,577 @@
+cveent,entidad,pollutant,exp_type,temporality,cause,health_outcome,icd_10,age_group,reference,crf_type,analysis_type,total_dths,ab_dths_mean,ab_dths_lower,ab_dths_upper,paf
+01,Aguascalientes,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,5856,71.7,43.55,99.18,0.0122
+01,Aguascalientes,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,199,1.92,0.97,2.84,0.0096
+01,Aguascalientes,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1494,18.1,10.99,28.44,0.0121
+01,Aguascalientes,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,707,8.55,5.19,13.43,0.0121
+01,Aguascalientes,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,5856,71,43.12,98.21,0.0121
+01,Aguascalientes,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,199,1.9,0.96,2.82,0.0095
+01,Aguascalientes,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1494,17.92,10.89,28.17,0.012
+01,Aguascalientes,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,707,8.46,5.14,13.3,0.012
+01,Aguascalientes,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,199,52.42,28.59,66.12,0.2634
+01,Aguascalientes,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,199,28.59,14.95,44.95,0.1437
+01,Aguascalientes,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,662,149.56,65.35,220,0.2259
+01,Aguascalientes,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,199,52.61,28.7,66.34,0.2644
+01,Aguascalientes,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,199,28.7,15.02,45.11,0.1442
+01,Aguascalientes,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,662,150.12,65.62,220.76,0.2268
+01,Aguascalientes,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,5856,402.36,278.13,524.18,0.0687
+01,Aguascalientes,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1494,133.49,109.39,156.66,0.0894
+01,Aguascalientes,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,5856,402.07,277.92,523.8,0.0687
+01,Aguascalientes,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1494,133.4,109.31,156.55,0.0893
+02,Baja California,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,18240,33.1,20.1,45.8,0.0018
+02,Baja California,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,396,0.58,0.29,0.85,0.0015
+02,Baja California,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5790,13.36,8.11,20.99,0.0023
+02,Baja California,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,2741,6.58,4,10.35,0.0024
+02,Baja California,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,18240,32.77,19.9,45.34,0.0018
+02,Baja California,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,396,0.57,0.29,0.85,0.0014
+02,Baja California,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5790,13.22,8.03,20.78,0.0023
+02,Baja California,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,2741,6.52,3.96,10.24,0.0024
+02,Baja California,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,396,97.33,52.8,123.17,0.2458
+02,Baja California,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,396,52.8,27.54,83.31,0.1333
+02,Baja California,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1681,353.25,153.49,522.3,0.2101
+02,Baja California,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,396,97.44,52.86,123.3,0.2461
+02,Baja California,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,396,52.86,27.57,83.41,0.1335
+02,Baja California,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1681,353.66,153.68,522.86,0.2104
+02,Baja California,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,18240,1847.5,1285.13,2391.88,0.1013
+02,Baja California,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5790,745.75,614.01,871.16,0.1288
+02,Baja California,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,18240,1839.31,1279.32,2381.48,0.1008
+02,Baja California,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5790,742.54,611.32,867.47,0.1282
+03,Baja California Sur,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,3564,13.46,8.16,18.64,0.0038
+03,Baja California Sur,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,77,0.23,0.12,0.35,0.003
+03,Baja California Sur,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1147,4.32,2.62,6.8,0.0038
+03,Baja California Sur,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,705,2.62,1.59,4.13,0.0037
+03,Baja California Sur,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,3564,13.31,8.07,18.45,0.0037
+03,Baja California Sur,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,77,0.23,0.12,0.35,0.003
+03,Baja California Sur,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1147,4.27,2.59,6.73,0.0037
+03,Baja California Sur,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,705,2.59,1.57,4.09,0.0037
+03,Baja California Sur,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,77,16.25,8.73,20.7,0.211
+03,Baja California Sur,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,77,8.73,4.53,13.86,0.1134
+03,Baja California Sur,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,338,60.9,26.18,90.93,0.1802
+03,Baja California Sur,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,77,16.25,8.73,20.7,0.211
+03,Baja California Sur,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,77,8.73,4.53,13.87,0.1134
+03,Baja California Sur,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,338,60.91,26.19,90.94,0.1802
+03,Baja California Sur,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,3564,138.48,95.25,181.29,0.0389
+03,Baja California Sur,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1147,58.23,47.53,68.58,0.0508
+03,Baja California Sur,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,3564,137.71,94.72,180.29,0.0386
+03,Baja California Sur,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1147,57.9,47.27,68.21,0.0505
+04,Campeche,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,4960,15.72,9.53,21.79,0.0032
+04,Campeche,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,111,0.28,0.14,0.42,0.0025
+04,Campeche,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1733,5.56,3.37,8.76,0.0032
+04,Campeche,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,1252,4.03,2.44,6.35,0.0032
+04,Campeche,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,4960,15.61,9.47,21.64,0.0031
+04,Campeche,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,111,0.28,0.14,0.41,0.0025
+04,Campeche,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1733,5.53,3.35,8.71,0.0032
+04,Campeche,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,1252,4,2.43,6.31,0.0032
+04,Campeche,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,111,20.86,11.13,26.68,0.1879
+04,Campeche,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,112,11.23,5.8,17.92,0.1003
+04,Campeche,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,439,71.39,30.52,107.17,0.1626
+04,Campeche,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,111,20.92,11.16,26.76,0.1885
+04,Campeche,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,112,11.26,5.82,17.98,0.1005
+04,Campeche,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,439,71.65,30.64,107.54,0.1632
+04,Campeche,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,4960,414.38,287.19,538.41,0.0835
+04,Campeche,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1733,189.7,155.78,222.16,0.1095
+04,Campeche,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,4960,415.95,288.3,540.43,0.0839
+04,Campeche,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1733,190.42,156.38,222.99,0.1099
+05,Coahuila,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,16762,247.61,150.61,342.02,0.0148
+05,Coahuila,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,303,3.82,1.94,5.66,0.0126
+05,Coahuila,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5730,77.25,46.98,121.18,0.0135
+05,Coahuila,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3769,49.13,29.87,77.07,0.013
+05,Coahuila,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,16762,247.52,150.55,341.91,0.0148
+05,Coahuila,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,303,3.81,1.93,5.63,0.0126
+05,Coahuila,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5730,77.51,47.14,121.59,0.0135
+05,Coahuila,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3769,49.4,30.04,77.51,0.0131
+05,Coahuila,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,303,77.83,42.36,98.28,0.2569
+05,Coahuila,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,304,42.5,22.21,66.91,0.1398
+05,Coahuila,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1461,320.86,139.89,472.94,0.2196
+05,Coahuila,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,303,78.23,42.6,98.77,0.2582
+05,Coahuila,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,304,42.74,22.34,67.27,0.1406
+05,Coahuila,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1461,322.72,140.76,475.49,0.2209
+05,Coahuila,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,16762,939.61,648.25,1226.43,0.0561
+05,Coahuila,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5730,421.32,344.75,495.13,0.0735
+05,Coahuila,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,16762,940.09,648.58,1227.05,0.0561
+05,Coahuila,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5730,421.48,344.88,495.33,0.0736
+06,Colima,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,4384,28.53,17.31,39.51,0.0065
+06,Colima,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,102,0.56,0.28,0.84,0.0055
+06,Colima,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1182,7.5,4.55,11.81,0.0063
+06,Colima,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,674,4.19,2.54,6.6,0.0062
+06,Colima,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,4384,28.22,17.12,39.08,0.0064
+06,Colima,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,102,0.56,0.28,0.83,0.0055
+06,Colima,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1182,7.42,4.5,11.68,0.0063
+06,Colima,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,674,4.15,2.52,6.53,0.0062
+06,Colima,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,102,22.37,12.04,28.44,0.2193
+06,Colima,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,102,12.04,6.25,19.09,0.118
+06,Colima,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,449,84.7,36.53,126.1,0.1886
+06,Colima,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,102,22.4,12.05,28.48,0.2196
+06,Colima,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,102,12.05,6.26,19.12,0.1181
+06,Colima,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,449,84.81,36.58,126.26,0.1889
+06,Colima,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,4384,340.71,235.91,443.13,0.0777
+06,Colima,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1182,117.96,96.78,138.27,0.0998
+06,Colima,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,4384,340.54,235.79,442.91,0.0777
+06,Colima,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1182,117.91,96.74,138.22,0.0998
+07,Chiapas,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,26782,146.56,88.93,202.95,0.0055
+07,Chiapas,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,540,2.29,1.16,3.4,0.0042
+07,Chiapas,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,8078,42.46,25.76,66.84,0.0053
+07,Chiapas,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,5239,27.35,16.59,43.06,0.0052
+07,Chiapas,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,26782,149.36,90.62,206.81,0.0056
+07,Chiapas,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,540,2.34,1.18,3.47,0.0043
+07,Chiapas,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,8078,43.4,26.33,68.31,0.0054
+07,Chiapas,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,5239,27.96,16.97,44.02,0.0053
+07,Chiapas,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,540,107.15,57.31,136.79,0.1984
+07,Chiapas,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,541,57.42,29.73,91.46,0.1061
+07,Chiapas,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1948,330.81,141.74,495.55,0.1698
+07,Chiapas,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,540,108.13,57.87,137.99,0.2002
+07,Chiapas,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,541,57.98,30.02,92.31,0.1072
+07,Chiapas,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1948,333.95,143.17,499.98,0.1714
+07,Chiapas,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,26782,2782.44,1935.83,3601.65,0.1039
+07,Chiapas,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,8078,1083.26,892.11,1265.15,0.1341
+07,Chiapas,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,26782,2799.57,1947.98,3623.39,0.1045
+07,Chiapas,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,8078,1089.92,897.67,1272.8,0.1349
+08,Chihuahua,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,21185,283.09,172.14,391.15,0.0134
+08,Chihuahua,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,617,4.63,2.35,6.86,0.0075
+08,Chihuahua,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,6975,89.3,54.3,140.12,0.0128
+08,Chihuahua,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,4326,54.34,33.04,85.27,0.0126
+08,Chihuahua,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,21185,280.96,170.84,388.21,0.0133
+08,Chihuahua,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,617,4.6,2.33,6.81,0.0075
+08,Chihuahua,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,6975,88.63,53.89,139.08,0.0127
+08,Chihuahua,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,4326,53.94,32.79,84.64,0.0125
+08,Chihuahua,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,617,162.22,88.46,204.61,0.2629
+08,Chihuahua,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,617,88.46,46.27,139.08,0.1434
+08,Chihuahua,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,2300,519.31,226.91,763.9,0.2258
+08,Chihuahua,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,617,162.59,88.68,205.06,0.2635
+08,Chihuahua,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,617,88.68,46.39,139.41,0.1437
+08,Chihuahua,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,2300,520.56,227.5,765.6,0.2263
+08,Chihuahua,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,21185,1300.42,901.04,1690.21,0.0614
+08,Chihuahua,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,6975,537.82,441.4,630.22,0.0771
+08,Chihuahua,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,21185,1299.27,900.24,1688.72,0.0613
+08,Chihuahua,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,6975,537.32,440.99,629.64,0.077
+09,Ciudad de México,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,61214,6272.38,3884.73,8513.53,0.1025
+09,Ciudad de México,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,2019,171.5,88.58,249.23,0.0849
+09,Ciudad de México,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,19920,2055.44,1273.18,3139.7,0.1032
+09,Ciudad de México,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,11528,1189.65,736.89,1817.19,0.1032
+09,Ciudad de México,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,61214,6234.11,3860.5,8462.71,0.1018
+09,Ciudad de México,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,2019,170.44,88.02,247.73,0.0844
+09,Ciudad de México,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,19920,2042.92,1265.25,3121.18,0.1026
+09,Ciudad de México,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,11528,1182.4,732.3,1806.48,0.1026
+09,Ciudad de México,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,2019,591.04,325.32,741.2,0.2927
+09,Ciudad de México,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,2020,325.49,171.09,508.53,0.1611
+09,Ciudad de México,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,7225,1818.72,802.23,2652.2,0.2517
+09,Ciudad de México,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,2019,593.61,326.87,744.23,0.294
+09,Ciudad de México,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,2020,327.03,171.94,510.8,0.1619
+09,Ciudad de México,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,7225,1826.86,806.16,2663.05,0.2529
+09,Ciudad de México,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,61214,13257.87,9406.93,16832.75,0.2166
+09,Ciudad de México,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,19920,5480.41,4581.88,6308.28,0.2751
+09,Ciudad de México,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,61214,13242.68,9395.72,16814.23,0.2163
+09,Ciudad de México,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,19920,5474.38,4576.68,6301.55,0.2748
+10,Durango,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,7818,125.86,76.61,173.72,0.0161
+10,Durango,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,266,3.04,1.54,4.49,0.0114
+10,Durango,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,3029,46.02,28.01,72.1,0.0152
+10,Durango,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,2278,34.31,20.88,53.75,0.0151
+10,Durango,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,7818,124.89,76.02,172.38,0.016
+10,Durango,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,266,3.01,1.53,4.46,0.0113
+10,Durango,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,3029,45.66,27.79,71.55,0.0151
+10,Durango,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,2278,34.04,20.72,53.34,0.0149
+10,Durango,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,266,68.08,37.04,85.98,0.2559
+10,Durango,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,266,37.04,19.35,58.33,0.1392
+10,Durango,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,737,161.76,70.52,238.44,0.2195
+10,Durango,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,266,68.23,37.14,86.17,0.2565
+10,Durango,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,266,37.14,19.4,58.46,0.1396
+10,Durango,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,737,162.16,70.71,238.98,0.22
+10,Durango,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,7818,330.23,227.28,432.07,0.0422
+10,Durango,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,3029,165.81,135.41,195.23,0.0547
+10,Durango,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,7818,330.6,227.54,432.55,0.0423
+10,Durango,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,3029,166.01,135.58,195.46,0.0548
+11,Guanajuato,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,32687,596.57,362.96,823.85,0.0183
+11,Guanajuato,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,878,12.5,6.34,18.49,0.0142
+11,Guanajuato,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,11166,193.62,117.78,303.59,0.0173
+11,Guanajuato,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,7575,125.19,76.15,196.35,0.0165
+11,Guanajuato,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,32687,590.09,359.01,814.94,0.0181
+11,Guanajuato,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,878,12.36,6.27,18.29,0.0141
+11,Guanajuato,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,11166,191.5,116.49,300.29,0.0172
+11,Guanajuato,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,7575,123.82,75.31,194.2,0.0163
+11,Guanajuato,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,878,234.95,128.3,296.08,0.2676
+11,Guanajuato,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,878,128.3,67.16,201.53,0.1461
+11,Guanajuato,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,2904,666.23,291.48,978.84,0.2294
+11,Guanajuato,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,878,236.23,129.06,297.61,0.2691
+11,Guanajuato,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,878,129.06,67.57,202.66,0.147
+11,Guanajuato,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,2904,669.95,293.25,983.88,0.2307
+11,Guanajuato,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,32687,3147.93,2186.6,4081.19,0.0963
+11,Guanajuato,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,11166,1410.44,1160.34,1648.91,0.1263
+11,Guanajuato,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,32687,3142.96,2183.09,4074.85,0.0962
+11,Guanajuato,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,11166,1408.36,1158.61,1646.51,0.1261
+12,Guerrero,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,13298,78.57,47.68,108.79,0.0059
+12,Guerrero,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,277,1.42,0.72,2.11,0.0051
+12,Guerrero,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,4236,24.76,15.03,38.97,0.0058
+12,Guerrero,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,2698,15.55,9.44,24.47,0.0058
+12,Guerrero,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,13298,77.64,47.11,107.49,0.0058
+12,Guerrero,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,277,1.4,0.71,2.08,0.0051
+12,Guerrero,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,4236,24.47,14.85,38.51,0.0058
+12,Guerrero,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,2698,15.36,9.32,24.18,0.0057
+12,Guerrero,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,277,61.2,32.99,77.76,0.2209
+12,Guerrero,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,277,32.99,17.15,52.27,0.1191
+12,Guerrero,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1021,190.41,82.14,283.46,0.1865
+12,Guerrero,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,277,61.52,33.17,78.15,0.2221
+12,Guerrero,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,277,33.17,17.25,52.55,0.1197
+12,Guerrero,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1021,191.44,82.61,284.9,0.1875
+12,Guerrero,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,13298,880.75,609.17,1146.73,0.0662
+12,Guerrero,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,4236,369.24,302.76,433.06,0.0872
+12,Guerrero,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,13298,882.29,610.24,1148.75,0.0663
+12,Guerrero,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,4236,369.86,303.27,433.79,0.0873
+13,Hidalgo,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,15135,224.26,136.39,309.83,0.0148
+13,Hidalgo,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,465,5.74,2.91,8.5,0.0123
+13,Hidalgo,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5437,75.07,45.64,117.8,0.0138
+13,Hidalgo,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3173,40.65,24.71,63.82,0.0128
+13,Hidalgo,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,15135,226.1,137.5,312.37,0.0149
+13,Hidalgo,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,465,5.78,2.93,8.55,0.0124
+13,Hidalgo,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5437,75.97,46.19,119.22,0.014
+13,Hidalgo,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3173,41.33,25.12,64.88,0.013
+13,Hidalgo,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,465,124.77,68.16,157.2,0.2683
+13,Hidalgo,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,465,68.16,35.68,107.04,0.1466
+13,Hidalgo,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1206,277.18,121.3,407.13,0.2298
+13,Hidalgo,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,465,126.84,69.38,159.67,0.2728
+13,Hidalgo,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,465,69.38,36.35,108.86,0.1492
+13,Hidalgo,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1206,281.96,123.57,413.63,0.2338
+13,Hidalgo,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,15135,2154.44,1509.59,2769.31,0.1423
+13,Hidalgo,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5437,966.08,799.5,1122.98,0.1777
+13,Hidalgo,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,15135,2160.35,1513.8,2776.78,0.1427
+13,Hidalgo,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5437,969.14,802.07,1126.49,0.1782
+14,Jalisco,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,47284,1383.13,844.88,1902.66,0.0293
+14,Jalisco,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,1618,34.05,17.33,50.19,0.021
+14,Jalisco,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,14705,415.03,253.49,646.96,0.0282
+14,Jalisco,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,8372,220.11,134.4,343.25,0.0263
+14,Jalisco,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,47284,1371.6,837.78,1886.92,0.029
+14,Jalisco,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,1618,33.76,17.18,49.76,0.0209
+14,Jalisco,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,14705,411.56,251.35,641.61,0.028
+14,Jalisco,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,8372,218.25,133.26,340.38,0.0261
+14,Jalisco,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,1618,418.18,227.77,527.86,0.2585
+14,Jalisco,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,1621,228.19,119.28,359.06,0.1408
+14,Jalisco,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,6326,1398.91,610.37,2060.51,0.2211
+14,Jalisco,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,1618,419.29,228.42,529.18,0.2591
+14,Jalisco,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,1621,228.85,119.63,360.04,0.1412
+14,Jalisco,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,6326,1402.57,612.1,2065.5,0.2217
+14,Jalisco,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,47284,4555.71,3164.61,5906.09,0.0963
+14,Jalisco,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,14705,1821.83,1498.51,2130.23,0.1239
+14,Jalisco,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,47284,4544.29,3156.54,5891.54,0.0961
+14,Jalisco,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,14705,1817.4,1494.81,2125.12,0.1236
+15,México,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,85689,4558.58,2803.73,6229.37,0.0532
+15,México,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,2761,113.91,58.4,166.73,0.0413
+15,México,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,25578,1370.33,843.02,2114.01,0.0536
+15,México,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,15444,832.63,512.31,1284.23,0.053900000000000003
+15,México,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,85689,4527.78,2784.53,6187.83,0.0528
+15,México,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,2761,113.13,57.99,165.6,0.041
+15,México,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,25578,1361.1,837.27,2100.05,0.0532
+15,México,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,15444,827.03,508.82,1275.76,0.0536
+15,México,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,2761,788.24,432.89,989.87,0.2855
+15,México,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,2762,433.05,227.35,677.61,0.1568
+15,México,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,8270,2034.08,895.36,2971.9,0.246
+15,México,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,2761,792.29,435.32,994.67,0.287
+15,México,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,2762,435.48,228.69,681.2,0.1577
+15,México,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,8270,2044.93,900.58,2986.43,0.2473
+15,México,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,85689,16600.25,11737.16,21149.44,0.1937
+15,México,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,25578,6306.35,5258.23,7277.84,0.2466
+15,México,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,85689,16591.4,11730.69,21138.53,0.1936
+15,México,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,25578,6303.03,5255.39,7274.11,0.2464
+16,Michoacán,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,23520,237.75,144.35,329,0.0101
+16,Michoacán,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,730,5.65,2.86,8.37,0.0077
+16,Michoacán,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,7973,81,49.18,127.37,0.0102
+16,Michoacán,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,5077,51.36,31.18,80.76,0.0101
+16,Michoacán,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,23520,234.97,142.66,325.16,0.01
+16,Michoacán,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,730,5.58,2.82,8.27,0.0076
+16,Michoacán,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,7973,80.06,48.61,125.89,0.01
+16,Michoacán,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,5077,50.76,30.82,79.82,0.01
+16,Michoacán,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,730,186.45,101.46,235.5,0.2554
+16,Michoacán,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,731,101.6,53.08,159.97,0.139
+16,Michoacán,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,2005,437.84,190.84,645.54,0.2184
+16,Michoacán,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,730,187.11,101.84,236.28,0.2563
+16,Michoacán,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,731,101.98,53.29,160.55,0.1395
+16,Michoacán,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,2005,439.4,191.57,647.66,0.2192
+16,Michoacán,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,23520,2286.96,1589.16,2963.88,0.0972
+16,Michoacán,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,7973,998.95,821.85,1167.8,0.1253
+16,Michoacán,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,23520,2283.52,1586.73,2959.49,0.0971
+16,Michoacán,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,7973,997.43,820.59,1166.05,0.1251
+17,Morelos,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,12847,213.68,129.91,295.3,0.0166
+17,Morelos,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,389,5.19,2.63,7.69,0.0133
+17,Morelos,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,4018,67.19,40.85,105.44,0.0167
+17,Morelos,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,2549,42.72,25.98,67.05,0.0168
+17,Morelos,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,12847,211.1,128.34,291.75,0.0164
+17,Morelos,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,389,5.13,2.6,7.59,0.0132
+17,Morelos,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,4018,66.38,40.36,104.18,0.0165
+17,Morelos,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,2549,42.21,25.66,66.24,0.0166
+17,Morelos,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,389,107.41,58.81,135.14,0.2761
+17,Morelos,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,391,59.11,30.98,92.68,0.1512
+17,Morelos,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1268,300.83,131.99,440.82,0.2372
+17,Morelos,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,389,107.96,59.14,135.8,0.2775
+17,Morelos,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,391,59.44,31.17,93.17,0.152
+17,Morelos,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1268,302.41,132.75,442.96,0.2385
+17,Morelos,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,12847,1759.16,1230.73,2264.6,0.1369
+17,Morelos,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,4018,712.57,589.43,828.65,0.1773
+17,Morelos,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,12847,1755.02,1227.76,2259.41,0.1366
+17,Morelos,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,4018,710.92,588.04,826.78,0.1769
+18,Nayarit,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,5924,51.77,31.44,71.63,0.0087
+18,Nayarit,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,200,1.49,0.76,2.21,0.0074
+18,Nayarit,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1738,14.74,8.95,23.17,0.0085
+18,Nayarit,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,867,6.72,4.08,10.57,0.0078
+18,Nayarit,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,5924,51.29,31.14,70.96,0.0087
+18,Nayarit,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,200,1.48,0.75,2.19,0.0074
+18,Nayarit,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1738,14.6,8.86,22.95,0.0084
+18,Nayarit,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,867,6.66,4.04,10.47,0.0077
+18,Nayarit,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,200,43.66,23.49,55.53,0.2183
+18,Nayarit,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,201,23.62,12.27,37.46,0.1175
+18,Nayarit,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,656,121.61,52.39,181.23,0.1854
+18,Nayarit,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,200,43.73,23.54,55.61,0.2186
+18,Nayarit,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,201,23.66,12.29,37.53,0.1177
+18,Nayarit,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,656,121.81,52.48,181.51,0.1857
+18,Nayarit,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,5924,343.16,236.81,447.8,0.0579
+18,Nayarit,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1738,130.88,107.11,153.79,0.0753
+18,Nayarit,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,5924,342.98,236.68,447.57,0.0579
+18,Nayarit,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1738,130.81,107.06,153.71,0.0753
+19,Nuevo León,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,31682,535.42,325.7,739.52,0.0169
+19,Nuevo León,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,509,6.31,3.2,9.34,0.0124
+19,Nuevo León,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,10975,183.46,111.6,287.67,0.0167
+19,Nuevo León,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,7160,118.45,72.05,185.75,0.0165
+19,Nuevo León,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,31682,535.14,325.53,739.14,0.0169
+19,Nuevo León,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,509,6.31,3.2,9.33,0.0124
+19,Nuevo León,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,10975,183.38,111.55,287.55,0.0167
+19,Nuevo León,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,7160,118.41,72.02,185.67,0.0165
+19,Nuevo León,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,509,130.27,70.89,164.53,0.2559
+19,Nuevo León,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,509,70.89,37.03,111.61,0.1393
+19,Nuevo León,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,3573,788.51,343.9,1161.84,0.2207
+19,Nuevo León,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,509,131.32,71.5,165.79,0.258
+19,Nuevo León,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,509,71.5,37.37,112.54,0.1405
+19,Nuevo León,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,3573,794.89,346.91,1170.55,0.2225
+19,Nuevo León,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,31682,2849.95,1977.28,3699.2,0.09
+19,Nuevo León,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,10975,1279.11,1051.17,1496.93,0.1165
+19,Nuevo León,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,31682,2852.54,1979.1,3702.51,0.09
+19,Nuevo León,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,10975,1280.27,1052.13,1498.27,0.1167
+20,Oaxaca,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,24586,110.83,67.24,153.48,0.0045
+20,Oaxaca,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,606,2.02,1.02,3,0.0033
+20,Oaxaca,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,8291,35.87,21.76,56.46,0.0043
+20,Oaxaca,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,4689,20.97,12.72,33,0.0045
+20,Oaxaca,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,24586,114.02,69.18,157.89,0.0046
+20,Oaxaca,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,606,2.09,1.05,3.1,0.0034
+20,Oaxaca,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,8291,36.9,22.39,58.09,0.0045
+20,Oaxaca,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,4689,21.58,13.09,33.97,0.0046
+20,Oaxaca,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,606,131.28,70.62,167,0.2166
+20,Oaxaca,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,606,70.62,36.67,112.06,0.1165
+20,Oaxaca,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1773,327.66,141.16,488.34,0.1848
+20,Oaxaca,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,606,133.41,71.85,169.6,0.2201
+20,Oaxaca,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,606,71.85,37.33,113.92,0.1186
+20,Oaxaca,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1773,333.09,143.66,495.93,0.1879
+20,Oaxaca,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,24586,1731.69,1197.87,2254.38,0.0704
+20,Oaxaca,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,8291,755.06,619.05,885.66,0.0911
+20,Oaxaca,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,24586,1744.14,1206.6,2270.36,0.0709
+20,Oaxaca,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,8291,760.3,623.39,891.74,0.0917
+21,Puebla,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,36628,507.01,308.27,700.63,0.0138
+21,Puebla,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,944,9.05,4.59,13.41,0.0096
+21,Puebla,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,12452,168.78,102.61,264.86,0.0136
+21,Puebla,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,7800,105.11,63.91,164.95,0.0135
+21,Puebla,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,36628,512.46,311.57,708.16,0.014
+21,Puebla,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,944,9.23,4.68,13.68,0.0098
+21,Puebla,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,12452,170.79,103.84,268.03,0.0137
+21,Puebla,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,7800,106.27,64.61,166.76,0.0136
+21,Puebla,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,944,245.64,133.87,309.96,0.2602
+21,Puebla,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,945,134,70.06,210.77,0.1418
+21,Puebla,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,2834,639.31,279.39,940.29,0.2256
+21,Puebla,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,944,249.73,136.27,314.87,0.2645
+21,Puebla,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,945,136.41,71.37,214.37,0.1443
+21,Puebla,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,2834,648.79,283.86,953.22,0.2289
+21,Puebla,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,36628,3657.38,2542.4,4738.14,0.0999
+21,Puebla,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,12452,1602.55,1318.9,1872.8,0.1287
+21,Puebla,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,36628,3673.27,2553.63,4758.4,0.1003
+21,Puebla,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,12452,1609.58,1324.76,1880.92,0.1293
+22,Querétaro,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,11229,256.15,156.02,353.35,0.0228
+22,Querétaro,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,279,4.54,2.3,6.71,0.0163
+22,Querétaro,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,3397,75.87,46.21,118.75,0.0223
+22,Querétaro,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,1982,43.71,26.62,68.42,0.0221
+22,Querétaro,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,11229,254.38,154.93,350.92,0.0227
+22,Querétaro,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,279,4.51,2.29,6.67,0.0162
+22,Querétaro,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,3397,75.35,45.89,117.94,0.0222
+22,Querétaro,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,1982,43.41,26.44,67.96,0.0219
+22,Querétaro,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,279,74.33,40.58,93.69,0.2664
+22,Querétaro,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,279,40.58,21.24,63.75,0.1454
+22,Querétaro,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1223,279.42,122.21,410.66,0.2285
+22,Querétaro,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,279,74.95,40.95,94.44,0.2686
+22,Querétaro,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,279,40.95,21.44,64.3,0.1468
+22,Querétaro,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1223,281.79,123.33,413.87,0.2304
+22,Querétaro,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,11229,1249.5,870.18,1615.79,0.1113
+22,Querétaro,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,3397,490.95,404.67,572.89,0.1445
+22,Querétaro,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,11229,1251.26,871.42,1618.02,0.1114
+22,Querétaro,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,3397,491.63,405.24,573.67,0.1447
+23,Quintana Roo,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,7244,20.82,12.62,28.85,0.0029
+23,Quintana Roo,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,165,0.35,0.18,0.52,0.0021
+23,Quintana Roo,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1826,5.25,3.18,8.27,0.0029
+23,Quintana Roo,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,945,2.55,1.55,4.02,0.0027
+23,Quintana Roo,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,7244,20.63,12.51,28.59,0.0028
+23,Quintana Roo,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,165,0.35,0.18,0.52,0.0021
+23,Quintana Roo,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,1826,5.2,3.15,8.2,0.0028
+23,Quintana Roo,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,945,2.53,1.53,3.98,0.0027
+23,Quintana Roo,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,165,30.65,16.34,39.21,0.1858
+23,Quintana Roo,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,165,16.34,8.45,26.09,0.099
+23,Quintana Roo,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,632,100.75,43.03,151.37,0.1594
+23,Quintana Roo,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,165,30.64,16.34,39.2,0.1857
+23,Quintana Roo,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,165,16.34,8.44,26.08,0.099
+23,Quintana Roo,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,632,100.71,43.01,151.32,0.1594
+23,Quintana Roo,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,7244,398.17,274.6,519.9,0.055
+23,Quintana Roo,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1826,131.06,107.21,154.06,0.0718
+23,Quintana Roo,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,7244,398.62,274.92,520.47,0.055
+23,Quintana Roo,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,1826,131.2,107.32,154.22,0.0719
+24,San Luis Potosí,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,16196,229.88,139.85,317.47,0.0142
+24,San Luis Potosí,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,614,6.67,3.38,9.87,0.0109
+24,San Luis Potosí,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5782,76.83,46.73,120.48,0.0133
+24,San Luis Potosí,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3491,40.68,24.74,63.82,0.0117
+24,San Luis Potosí,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,16196,230.79,140.4,318.73,0.0142
+24,San Luis Potosí,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,614,6.71,3.4,9.92,0.0109
+24,San Luis Potosí,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5782,77.21,46.97,121.08,0.0134
+24,San Luis Potosí,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3491,40.99,24.92,64.31,0.0117
+24,San Luis Potosí,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,614,156.38,85.06,197.56,0.2547
+24,San Luis Potosí,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,614,85.06,44.43,133.97,0.1385
+24,San Luis Potosí,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1614,352.76,153.74,520.14,0.2186
+24,San Luis Potosí,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,614,158.6,86.36,200.22,0.2583
+24,San Luis Potosí,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,614,86.36,45.14,135.92,0.1407
+24,San Luis Potosí,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1614,357.48,155.95,526.59,0.2215
+24,San Luis Potosí,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,16196,1343.41,931.22,1745.3,0.0829
+24,San Luis Potosí,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5782,627.74,515.56,735.07,0.1086
+24,San Luis Potosí,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,16196,1348.49,934.8,1751.78,0.0833
+24,San Luis Potosí,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5782,630.16,517.58,737.86,0.109
+25,Sinaloa,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,12274,74.4,45.15,103,0.0061
+25,Sinaloa,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,321,1.47,0.75,2.19,0.0046
+25,Sinaloa,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,4060,23.71,14.39,37.32,0.0058
+25,Sinaloa,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,2337,13.69,8.31,21.55,0.0059
+25,Sinaloa,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,12274,73.58,44.65,101.87,0.006
+25,Sinaloa,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,321,1.46,0.74,2.16,0.0045
+25,Sinaloa,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,4060,23.45,14.23,36.91,0.0058
+25,Sinaloa,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,2337,13.54,8.22,21.31,0.0058
+25,Sinaloa,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,321,69.84,37.57,88.85,0.2176
+25,Sinaloa,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,322,37.69,19.57,59.81,0.117
+25,Sinaloa,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1306,243.85,105.1,363.29,0.1867
+25,Sinaloa,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,321,69.91,37.61,88.93,0.2178
+25,Sinaloa,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,322,37.73,19.59,59.87,0.1172
+25,Sinaloa,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1306,244.08,105.2,363.61,0.1869
+25,Sinaloa,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,12274,642.68,443.07,839.47,0.0524
+25,Sinaloa,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,4060,276.59,226.18,325.24,0.0681
+25,Sinaloa,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,12274,642.21,442.74,838.87,0.0523
+25,Sinaloa,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,4060,276.4,226.03,325.02,0.0681
+26,Sonora,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,16120,128.23,77.86,177.43,0.008
+26,Sonora,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,405,2.58,1.31,3.82,0.0064
+26,Sonora,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5449,41.85,25.41,65.8,0.0077
+26,Sonora,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3456,26.18,15.9,41.17,0.0076
+26,Sonora,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,16120,127.14,77.2,175.91,0.0079
+26,Sonora,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,405,2.56,1.29,3.79,0.0063
+26,Sonora,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5449,41.49,25.19,65.23,0.0076
+26,Sonora,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3456,25.96,15.76,40.81,0.0075
+26,Sonora,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,405,95.78,51.81,121.41,0.2365
+26,Sonora,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,405,51.81,26.98,81.9,0.1279
+26,Sonora,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1923,387.91,168.06,575.13,0.2017
+26,Sonora,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,405,95.86,51.86,121.51,0.2367
+26,Sonora,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,405,51.86,27.01,81.98,0.128
+26,Sonora,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1923,388.26,168.22,575.6,0.2019
+26,Sonora,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,16120,751.9,518.38,982.12,0.0466
+26,Sonora,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5449,336.22,275.01,395.29,0.0617
+26,Sonora,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,16120,748.76,516.18,978.11,0.0464
+26,Sonora,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5449,334.76,273.79,393.6,0.0614
+27,Tabasco,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,13021,96.38,58.49,133.44,0.0074
+27,Tabasco,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,241,1.42,0.72,2.11,0.0059
+27,Tabasco,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,4600,33.79,20.5,53.17,0.0073
+27,Tabasco,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3016,21.66,13.14,34.09,0.0072
+27,Tabasco,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,13021,104.56,63.46,144.75,0.008
+27,Tabasco,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,241,1.55,0.78,2.29,0.0064
+27,Tabasco,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,4600,36.65,22.25,57.67,0.008
+27,Tabasco,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3016,23.49,14.26,36.96,0.0078
+27,Tabasco,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,241,51.57,27.71,65.64,0.214
+27,Tabasco,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,241,27.71,14.38,44,0.115
+27,Tabasco,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,814,149.04,64.15,222.32,0.1831
+27,Tabasco,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,241,52.8,28.41,67.14,0.2191
+27,Tabasco,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,241,28.41,14.76,45.07,0.1179
+27,Tabasco,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,814,152.66,65.81,227.37,0.1875
+27,Tabasco,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,13021,1527.23,1064.46,1973.32,0.1173
+27,Tabasco,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,4600,697.14,574.95,813.05,0.1516
+27,Tabasco,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,13021,1540.57,1073.95,1990.2,0.1183
+27,Tabasco,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,4600,703.11,579.96,819.9,0.1529
+28,Tamaulipas,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,16774,134.01,81.33,185.52,0.008
+28,Tamaulipas,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,330,2.04,1.03,3.02,0.0062
+28,Tamaulipas,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5841,45.94,27.88,72.28,0.0079
+28,Tamaulipas,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3773,29.23,17.74,45.99,0.0077
+28,Tamaulipas,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,16774,141.64,85.97,196.06,0.0084
+28,Tamaulipas,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,330,2.15,1.09,3.18,0.0065
+28,Tamaulipas,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,5841,48.46,29.41,76.24,0.0083
+28,Tamaulipas,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3773,30.78,18.68,48.42,0.0082
+28,Tamaulipas,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,330,77.26,41.77,97.98,0.2341
+28,Tamaulipas,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,330,41.77,21.75,66.06,0.1266
+28,Tamaulipas,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1362,270.26,116.95,401.12,0.1984
+28,Tamaulipas,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,330,78.78,42.65,99.83,0.2387
+28,Tamaulipas,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,330,42.65,22.22,67.39,0.1292
+28,Tamaulipas,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1362,275.75,119.5,408.73,0.2025
+28,Tamaulipas,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,16774,1170.47,809.28,1524.46,0.0698
+28,Tamaulipas,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5841,530.13,434.51,622,0.0908
+28,Tamaulipas,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,16774,1176.73,813.66,1532.5,0.0702
+28,Tamaulipas,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,5841,532.85,436.76,625.17,0.0912
+29,Tlaxcala,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,6505,104.03,63.26,143.74,0.016
+29,Tlaxcala,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,187,2.27,1.15,3.35,0.0121
+29,Tlaxcala,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,2223,35.14,21.36,55.13,0.0158
+29,Tlaxcala,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,1449,23.2,14.11,36.4,0.016
+29,Tlaxcala,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,6505,103.9,63.18,143.56,0.016
+29,Tlaxcala,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,187,2.26,1.15,3.35,0.0121
+29,Tlaxcala,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,2223,35.09,21.34,55.06,0.0158
+29,Tlaxcala,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,1449,23.16,14.08,36.34,0.016
+29,Tlaxcala,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,187,51.73,28.33,65.08,0.2766
+29,Tlaxcala,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,187,28.33,14.85,44.41,0.1515
+29,Tlaxcala,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,488,115.94,50.88,169.88,0.2376
+29,Tlaxcala,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,187,52.13,28.57,65.55,0.2788
+29,Tlaxcala,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,187,28.57,14.98,44.77,0.1528
+29,Tlaxcala,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,488,116.85,51.31,171.09,0.2394
+29,Tlaxcala,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,6505,754.88,526.13,975.4,0.116
+29,Tlaxcala,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,2223,332.87,274.51,388.24,0.1497
+29,Tlaxcala,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,6505,757.05,527.67,978.15,0.1164
+29,Tlaxcala,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,2223,333.82,275.31,389.33,0.1502
+30,Veracruz,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,54897,416.37,252.76,576.26,0.0076
+30,Veracruz,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,1249,7.56,3.83,11.21,0.0061
+30,Veracruz,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,19018,138.87,84.29,218.44,0.0073
+30,Veracruz,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,12819,91.16,55.33,143.4,0.0071
+30,Veracruz,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,54897,450.58,273.55,623.54,0.0082
+30,Veracruz,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,1249,8.19,4.15,12.15,0.0066
+30,Veracruz,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,19018,150.43,91.32,236.58,0.0079
+30,Veracruz,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,12819,98.83,59.99,155.45,0.0077
+30,Veracruz,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,1249,292.05,157.89,370.36,0.2338
+30,Veracruz,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,1252,158.27,82.4,250.29,0.1264
+30,Veracruz,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,4345,863.11,373.59,1280.75,0.1986
+30,Veracruz,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,1249,301.27,163.24,381.53,0.2412
+30,Veracruz,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,1252,163.63,85.29,258.38,0.1307
+30,Veracruz,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,4345,890.66,386.37,1318.91,0.205
+30,Veracruz,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,54897,5018.2,3482.16,6512.52,0.0914
+30,Veracruz,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,19018,2262.57,1859.71,2647.39,0.119
+30,Veracruz,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,54897,5066.07,3515.9,6573.68,0.0923
+30,Veracruz,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,19018,2283.87,1877.44,2672.02,0.1201
+31,Yucatán,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,14437,80.12,48.62,110.93,0.0055
+31,Yucatán,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,338,1.64,0.83,2.44,0.0049
+31,Yucatán,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,4916,26.68,16.19,41.99,0.0054
+31,Yucatán,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3130,16.3,9.89,25.66,0.0052
+31,Yucatán,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,14437,79.44,48.2,109.98,0.0055
+31,Yucatán,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,338,1.63,0.82,2.42,0.0048
+31,Yucatán,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,4916,26.45,16.05,41.63,0.0054
+31,Yucatán,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,3130,16.16,9.81,25.44,0.0052
+31,Yucatán,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,338,64.46,34.41,82.41,0.1907
+31,Yucatán,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,340,34.62,17.9,55.22,0.1018
+31,Yucatán,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1468,238.12,101.77,357.53,0.1622
+31,Yucatán,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,338,64.54,34.45,82.5,0.1909
+31,Yucatán,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,340,34.66,17.93,55.29,0.1019
+31,Yucatán,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,1468,238.41,101.9,357.95,0.1624
+31,Yucatán,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,14437,882.83,609.47,1151.56,0.0612
+31,Yucatán,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,4916,391.24,320.29,459.57,0.0796
+31,Yucatán,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,14437,886.65,612.14,1156.5,0.0614
+31,Yucatán,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,4916,392.9,321.66,461.51,0.0799
+32,Zacatecas,NO2,no_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,8390,35.02,21.24,48.52,0.0042
+32,Zacatecas,NO2,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,354,1.17,0.59,1.74,0.0033
+32,Zacatecas,NO2,no_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,2711,11.26,6.83,17.74,0.0042
+32,Zacatecas,NO2,no_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,1607,6.73,4.08,10.61,0.0042
+32,Zacatecas,NO2,with_og,long_term,all_cause,mortality,a00_r99,plus25,kasdagli_2024,lineal,main,8390,34.68,21.03,48.04,0.0041
+32,Zacatecas,NO2,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,354,1.16,0.59,1.72,0.0033
+32,Zacatecas,NO2,with_og,long_term,cvd,mortality,i00_i99,plus25,kasdagli_2024,lineal,main,2711,11.16,6.76,17.57,0.0041
+32,Zacatecas,NO2,with_og,long_term,ihd,mortality,i20_i25,plus25,kasdagli_2024,lineal,main,1607,6.67,4.04,10.5,0.0042
+32,Zacatecas,O3,no_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,354,91.08,49.58,115,0.2573
+32,Zacatecas,O3,no_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,355,49.72,25.98,78.26,0.1401
+32,Zacatecas,O3,no_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,876,193.15,84.24,284.62,0.2205
+32,Zacatecas,O3,with_og,long_term,copd,mortality,j45_j46,plus25,kasdagli_2024,lineal,main,354,91.41,49.78,115.41,0.2582
+32,Zacatecas,O3,with_og,long_term,copd,mortality,j45_j46,total,gbd_2023,lineal,main,355,49.92,26.09,78.56,0.1406
+32,Zacatecas,O3,with_og,long_term,respiratory,mortality,j00_j99,plus25,kasdagli_2024,lineal,main,876,193.88,84.58,285.62,0.2213
+32,Zacatecas,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,8390,423.92,292.26,553.73,0.0505
+32,Zacatecas,PM25,no_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,2711,177.26,144.95,208.44,0.0654
+32,Zacatecas,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,orellano_2024,lineal,main,8390,424.21,292.45,554.1,0.0506
+32,Zacatecas,PM25,with_og,long_term,cvd,mortality,i00_i99,plus25,orellano_2024,lineal,main,2711,177.38,145.05,208.59,0.0654

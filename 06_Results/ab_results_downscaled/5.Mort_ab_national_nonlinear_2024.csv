@@ -1,0 +1,3 @@
+level,pollutant,exp_type,temporality,cause,health_outcome,icd_10,age_group,reference,crf_type,analysis_type,total_dths,ab_dths_mean,ab_dths_lower,ab_dths_upper,paf
+Mexico,PM25,no_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,677132,78291.48,69385.95,87195.2,0.1156
+Mexico,PM25,with_og,long_term,all_cause,mortality,a00_r99,plus25,eschif+fusion,non-linear,main,677132,78321.77,69423.34,87227.23,0.1157

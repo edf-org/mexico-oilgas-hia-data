@@ -1,0 +1,5 @@
+level,pollutant,exp_type,temporality,cause,health_outcome,icd_10,age_group,reference,crf_type,analysis_type,total_incid,ab_incid_mean,ab_incid_lower,ab_incid_upper,paf
+Mexico,NO2,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,75434,1648.27,686.29,2223.91,0.0219
+Mexico,NO2,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,75434,1649.45,686.67,2225.73,0.0219
+Mexico,PM25,no_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,75434,21382.95,8046.52,31349.87,0.2835
+Mexico,PM25,with_og,long_term,asthma,incidence,j45_j46,less20,khreis_2017,lineal,main,75434,21406.26,8055.27,31383.05,0.2838

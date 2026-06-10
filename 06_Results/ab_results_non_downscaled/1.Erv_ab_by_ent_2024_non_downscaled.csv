@@ -1,0 +1,705 @@
+cveent,entidad,pollutant,exp_type,temporality,cause,health_outcome,icd_10,age_group,reference,crf_type,analysis_type,total_erv,ab_erv_mean,ab_erv_lower,ab_erv_upper,paf
+01,Aguascalientes,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,607,1.64,0.91,2.37,0.0027
+01,Aguascalientes,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,896,1.7,0.98,2.43,0.0019
+01,Aguascalientes,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5103,12.79,2.04,22.7,0.0025
+01,Aguascalientes,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5103,16.78,2.04,31.15,0.0033
+01,Aguascalientes,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5103,16.78,2.04,31.15,0.0033
+01,Aguascalientes,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,607,1.63,0.9,2.35,0.0027
+01,Aguascalientes,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,896,1.69,0.97,2.4,0.0019
+01,Aguascalientes,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5103,12.58,2.01,22.32,0.0025
+01,Aguascalientes,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5103,16.5,2.01,30.63,0.0032
+01,Aguascalientes,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5103,16.5,2.01,30.63,0.0032
+01,Aguascalientes,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,607,26.99,6.13,49.75,0.0445
+01,Aguascalientes,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,896,35.64,22.49,48.56,0.0398
+01,Aguascalientes,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,606,27.08,6.15,49.91,0.0447
+01,Aguascalientes,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,894,35.74,22.55,48.69,0.04
+01,Aguascalientes,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,896,28.39,17.44,40.23,0.0317
+01,Aguascalientes,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5103,106.99,31.15,183.62,0.021
+01,Aguascalientes,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5103,165.64,38.86,288.14,0.0325
+01,Aguascalientes,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5103,140.2,3.92,277.94,0.0275
+01,Aguascalientes,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,896,28.41,17.45,40.26,0.0317
+01,Aguascalientes,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5103,106.82,31.1,183.34,0.0209
+01,Aguascalientes,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5103,165.39,38.81,287.69,0.0324
+01,Aguascalientes,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5103,139.98,3.91,277.5,0.0274
+02,Baja California,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,684,2,1.11,2.88,0.0029
+02,Baja California,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1407,2.85,1.64,4.06,0.002
+02,Baja California,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,8101,23.15,3.69,41.06,0.0029
+02,Baja California,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,8101,30.36,3.69,56.34,0.0037
+02,Baja California,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,8101,30.36,3.69,56.34,0.0037
+02,Baja California,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,684,1.95,1.08,2.82,0.0029
+02,Baja California,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1407,2.8,1.6,3.98,0.002
+02,Baja California,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,8101,22.83,3.64,40.49,0.0028
+02,Baja California,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,8101,29.93,3.64,55.55,0.0037
+02,Baja California,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,8101,29.93,3.64,55.55,0.0037
+02,Baja California,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,684,28.75,6.52,53.04,0.042
+02,Baja California,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1407,51.96,32.76,70.83,0.0369
+02,Baja California,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,680,28.65,6.5,52.87,0.0421
+02,Baja California,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1401,51.84,32.68,70.66,0.037
+02,Baja California,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1407,62.03,38.45,87.12,0.0441
+02,Baja California,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,8101,251.5,74.19,426.53,0.031
+02,Baja California,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,8101,385.81,92.43,659.58,0.0476
+02,Baja California,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,8101,327.82,9.38,637.1,0.0405
+02,Baja California,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1407,61.6,38.18,86.52,0.0438
+02,Baja California,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,8101,250.09,73.77,424.16,0.0309
+02,Baja California,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,8101,383.66,91.91,655.97,0.0474
+02,Baja California,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,8101,325.99,9.33,633.6,0.0402
+03,Baja California Sur,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,135,0.05,0.03,0.08,4e-4
+03,Baja California Sur,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,269,0.07,0.04,0.1,3e-4
+03,Baja California Sur,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,1781,0.64,0.1,1.14,4e-4
+03,Baja California Sur,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,1781,0.84,0.1,1.56,5e-4
+03,Baja California Sur,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,1781,0.84,0.1,1.56,5e-4
+03,Baja California Sur,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,135,0.05,0.03,0.08,4e-4
+03,Baja California Sur,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,269,0.07,0.04,0.1,3e-4
+03,Baja California Sur,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,1781,0.64,0.1,1.13,4e-4
+03,Baja California Sur,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,1781,0.83,0.1,1.55,5e-4
+03,Baja California Sur,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,1781,0.83,0.1,1.55,5e-4
+03,Baja California Sur,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,135,4.81,1.09,8.9,0.0356
+03,Baja California Sur,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,269,8.63,5.43,11.77,0.0321
+03,Baja California Sur,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,134,4.77,1.08,8.84,0.0356
+03,Baja California Sur,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,266,8.53,5.37,11.64,0.0321
+03,Baja California Sur,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,269,4.57,2.8,6.5,0.017
+03,Baja California Sur,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,1781,21.05,6.11,36.26,0.0118
+03,Baja California Sur,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,1781,32.68,7.62,57.19,0.0183
+03,Baja California Sur,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,1781,27.63,0.77,55.14,0.0155
+03,Baja California Sur,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,269,4.54,2.78,6.45,0.0169
+03,Baja California Sur,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,1781,20.94,6.08,36.07,0.0118
+03,Baja California Sur,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,1781,32.51,7.58,56.89,0.0183
+03,Baja California Sur,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,1781,27.48,0.76,54.85,0.0154
+04,Campeche,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,371,0.33,0.18,0.48,9e-4
+04,Campeche,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,567,0.34,0.19,0.48,6e-4
+04,Campeche,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2933,3.15,0.5,5.59,0.0011
+04,Campeche,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2933,4.13,0.5,7.67,0.0014
+04,Campeche,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2933,4.13,0.5,7.67,0.0014
+04,Campeche,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,371,0.33,0.18,0.47,9e-4
+04,Campeche,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,567,0.34,0.19,0.48,6e-4
+04,Campeche,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2933,3.12,0.5,5.54,0.0011
+04,Campeche,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2933,4.09,0.5,7.6,0.0014
+04,Campeche,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2933,4.09,0.5,7.6,0.0014
+04,Campeche,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,371,11.79,2.67,21.84,0.0318
+04,Campeche,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,567,15.68,9.87,21.4,0.0277
+04,Campeche,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,370,11.81,2.67,21.87,0.0319
+04,Campeche,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,565,15.68,9.87,21.41,0.0278
+04,Campeche,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,567,18.16,11.17,25.68,0.032
+04,Campeche,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2933,76.78,22.48,131.06,0.0262
+04,Campeche,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2933,118.38,28.03,204.16,0.0404
+04,Campeche,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2933,100.37,2.83,197.07,0.0342
+04,Campeche,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,567,18.23,11.22,25.79,0.0322
+04,Campeche,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2933,77.02,22.55,131.46,0.0263
+04,Campeche,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2933,118.74,28.12,204.76,0.0405
+04,Campeche,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2933,100.68,2.84,197.65,0.0343
+05,Coahuila,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,235,0.39,0.22,0.56,0.0017
+05,Coahuila,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,427,0.49,0.28,0.7,0.0011
+05,Coahuila,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3670,5.42,0.86,9.62,0.0015
+05,Coahuila,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3670,7.11,0.86,13.21,0.0019
+05,Coahuila,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3670,7.11,0.86,13.21,0.0019
+05,Coahuila,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,235,0.39,0.21,0.56,0.0017
+05,Coahuila,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,427,0.5,0.28,0.71,0.0012
+05,Coahuila,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3670,5.55,0.88,9.85,0.0015
+05,Coahuila,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3670,7.28,0.88,13.52,0.002
+05,Coahuila,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3670,7.28,0.88,13.52,0.002
+05,Coahuila,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,235,10.21,2.32,18.83,0.0434
+05,Coahuila,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,427,16.43,10.36,22.39,0.0385
+05,Coahuila,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,233,10.2,2.32,18.81,0.0438
+05,Coahuila,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,425,16.5,10.41,22.48,0.0388
+05,Coahuila,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,427,10.65,6.53,15.12,0.0249
+05,Coahuila,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3670,63.13,18.37,108.43,0.0172
+05,Coahuila,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3670,97.79,22.92,170.32,0.0266
+05,Coahuila,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3670,82.75,2.31,164.27,0.0225
+05,Coahuila,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,427,10.65,6.53,15.11,0.0249
+05,Coahuila,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3670,63.12,18.37,108.41,0.0172
+05,Coahuila,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3670,97.78,22.92,170.3,0.0266
+05,Coahuila,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3670,82.74,2.31,164.25,0.0225
+06,Colima,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,563,1.16,0.64,1.68,0.0021
+06,Colima,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1070,1.57,0.9,2.23,0.0015
+06,Colima,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2637,5.66,0.9,10.05,0.0021
+06,Colima,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2637,7.43,0.9,13.79,0.0028
+06,Colima,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2637,7.43,0.9,13.79,0.0028
+06,Colima,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,563,1.15,0.63,1.65,0.002
+06,Colima,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1070,1.54,0.89,2.2,0.0014
+06,Colima,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2637,5.6,0.89,9.93,0.0021
+06,Colima,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2637,7.34,0.89,13.63,0.0028
+06,Colima,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2637,7.34,0.89,13.63,0.0028
+06,Colima,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,563,20.74,4.7,38.36,0.0368
+06,Colima,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1070,35.06,22.09,47.82,0.0328
+06,Colima,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,563,20.79,4.71,38.45,0.0369
+06,Colima,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1066,34.98,22.04,47.72,0.0328
+06,Colima,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1070,38.24,23.51,54.13,0.0357
+06,Colima,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2637,61.34,17.88,105.17,0.0233
+06,Colima,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2637,94.89,22.31,164.77,0.036
+06,Colima,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2637,80.34,2.25,158.96,0.0305
+06,Colima,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1070,38.2,23.49,54.08,0.0357
+06,Colima,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2637,61.34,17.88,105.16,0.0233
+06,Colima,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2637,94.88,22.3,164.75,0.036
+06,Colima,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2637,80.34,2.25,158.95,0.0305
+07,Chiapas,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1211,1.81,1,2.61,0.0015
+07,Chiapas,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,2088,2.23,1.28,3.18,0.0011
+07,Chiapas,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,14709,23.77,3.79,42.18,0.0016
+07,Chiapas,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,14709,31.17,3.79,57.89,0.0021
+07,Chiapas,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,14709,31.17,3.79,57.89,0.0021
+07,Chiapas,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1211,1.91,1.06,2.76,0.0016
+07,Chiapas,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,2088,2.37,1.36,3.38,0.0011
+07,Chiapas,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,14709,24.72,3.94,43.86,0.0017
+07,Chiapas,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,14709,32.42,3.94,60.19,0.0022
+07,Chiapas,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,14709,32.42,3.94,60.19,0.0022
+07,Chiapas,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1211,39.28,8.88,72.77,0.0324
+07,Chiapas,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,2088,61.04,38.43,83.31,0.0292
+07,Chiapas,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1208,39.72,8.98,73.58,0.0329
+07,Chiapas,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,2082,61.77,38.9,84.3,0.0297
+07,Chiapas,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,2088,96.01,59.29,135.3,0.046
+07,Chiapas,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,14709,476.3,139.65,811.87,0.0324
+07,Chiapas,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,14709,733.56,174.11,1262.25,0.0499
+07,Chiapas,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,14709,622.28,17.62,1218.66,0.0423
+07,Chiapas,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,2088,96.8,59.79,136.39,0.0464
+07,Chiapas,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,14709,479.69,140.67,817.51,0.0326
+07,Chiapas,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,14709,738.68,175.37,1270.72,0.0502
+07,Chiapas,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,14709,626.66,17.75,1226.86,0.0426
+08,Chihuahua,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1250,2.04,1.13,2.94,0.0016
+08,Chihuahua,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1635,1.83,1.05,2.6,0.0011
+08,Chihuahua,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5375,7.33,1.17,13,0.0014
+08,Chihuahua,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5375,9.61,1.17,17.84,0.0018
+08,Chihuahua,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5375,9.61,1.17,17.84,0.0018
+08,Chihuahua,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1250,2.02,1.12,2.92,0.0016
+08,Chihuahua,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1635,1.81,1.04,2.58,0.0011
+08,Chihuahua,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5375,7.26,1.16,12.88,0.0014
+08,Chihuahua,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5375,9.52,1.16,17.68,0.0018
+08,Chihuahua,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5375,9.52,1.16,17.68,0.0018
+08,Chihuahua,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1250,56.18,12.76,103.52,0.0449
+08,Chihuahua,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1635,65.73,41.47,89.53,0.0402
+08,Chihuahua,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1242,55.9,12.7,103,0.045
+08,Chihuahua,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1625,65.44,41.29,89.13,0.0403
+08,Chihuahua,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1635,30.07,18.44,42.7,0.0184
+08,Chihuahua,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5375,70.31,20.45,120.79,0.0131
+08,Chihuahua,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5375,108.93,25.52,189.81,0.0203
+08,Chihuahua,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5375,92.17,2.57,183.06,0.0171
+08,Chihuahua,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1635,30.01,18.4,42.6,0.0184
+08,Chihuahua,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5375,70.12,20.4,120.45,0.013
+08,Chihuahua,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5375,108.63,25.45,189.28,0.0202
+08,Chihuahua,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5375,91.91,2.57,182.55,0.0171
+09,Ciudad de México,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,3189,33.97,18.82,48.91,0.0107
+09,Ciudad de México,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,5546,41.52,23.84,59.02,0.0075
+09,Ciudad de México,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,17422,168.89,27.01,298.7,0.0097
+09,Ciudad de México,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,17422,221.18,27.01,408.78,0.0127
+09,Ciudad de México,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,17422,221.18,27.01,408.78,0.0127
+09,Ciudad de México,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,3189,33.65,18.64,48.44,0.0106
+09,Ciudad de México,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,5546,41.04,23.57,58.35,0.0074
+09,Ciudad de México,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,17422,166.57,26.64,294.6,0.0096
+09,Ciudad de México,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,17422,218.15,26.64,403.18,0.0125
+09,Ciudad de México,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,17422,218.15,26.64,403.18,0.0125
+09,Ciudad de México,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,3189,161.75,36.84,297.16,0.0507
+09,Ciudad de México,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,5546,251.88,159.1,342.73,0.0454
+09,Ciudad de México,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,3180,162.08,36.92,297.74,0.051
+09,Ciudad de México,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,5524,252.04,159.2,342.92,0.0456
+09,Ciudad de México,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,5546,594.95,372.1,826.9,0.1073
+09,Ciudad de México,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,17422,1225.15,364.32,2058.56,0.0703
+09,Ciudad de México,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,17422,1866.27,453.56,3138.48,0.1071
+09,Ciudad de México,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,17422,1590.71,46.2,3035.88,0.0913
+09,Ciudad de México,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,5546,593.95,371.5,825.45,0.1071
+09,Ciudad de México,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,17422,1222.35,363.52,2053.69,0.0702
+09,Ciudad de México,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,17422,1861.89,452.56,3130.72,0.1069
+09,Ciudad de México,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,17422,1587.02,46.1,3028.4,0.0911
+10,Durango,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,556,0.73,0.4,1.05,0.0013
+10,Durango,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,901,0.8,0.46,1.14,9e-4
+10,Durango,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5687,6.75,1.08,11.99,0.0012
+10,Durango,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5687,8.86,1.08,16.46,0.0016
+10,Durango,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5687,8.86,1.08,16.46,0.0016
+10,Durango,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,556,0.72,0.4,1.04,0.0013
+10,Durango,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,901,0.8,0.46,1.14,9e-4
+10,Durango,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5687,6.69,1.07,11.87,0.0012
+10,Durango,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5687,8.77,1.07,16.3,0.0015
+10,Durango,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5687,8.77,1.07,16.3,0.0015
+10,Durango,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,556,24.7,5.61,45.52,0.0444
+10,Durango,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,901,35.86,22.62,48.85,0.0398
+10,Durango,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,553,24.59,5.58,45.32,0.0445
+10,Durango,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,896,35.7,22.52,48.63,0.0398
+10,Durango,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,901,17.05,10.44,24.24,0.0189
+10,Durango,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5687,72.36,21,124.58,0.0127
+10,Durango,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5687,112.3,26.21,196.35,0.0197
+10,Durango,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5687,94.95,2.64,189.32,0.0167
+10,Durango,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,901,17.14,10.5,24.37,0.019
+10,Durango,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5687,72.4,21.02,124.66,0.0127
+10,Durango,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5687,112.37,26.23,196.46,0.0198
+10,Durango,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5687,95.01,2.64,189.42,0.0167
+11,Guanajuato,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2304,8.6,4.76,12.41,0.0037
+11,Guanajuato,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3942,10.59,6.07,15.07,0.0027
+11,Guanajuato,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,20576,76.38,12.18,135.43,0.0037
+11,Guanajuato,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,20576,100.13,12.18,185.75,0.0049
+11,Guanajuato,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,20576,100.13,12.18,185.75,0.0049
+11,Guanajuato,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2304,8.54,4.72,12.32,0.0037
+11,Guanajuato,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3942,10.5,6.02,14.95,0.0027
+11,Guanajuato,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,20576,75.33,12.01,133.56,0.0037
+11,Guanajuato,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,20576,98.75,12.01,183.19,0.0048
+11,Guanajuato,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,20576,98.75,12.01,183.19,0.0048
+11,Guanajuato,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2304,105.65,24.01,194.58,0.0459
+11,Guanajuato,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3942,161.84,102.13,220.41,0.0411
+11,Guanajuato,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2300,106.11,24.12,195.41,0.0461
+11,Guanajuato,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3935,162.55,102.58,221.37,0.0413
+11,Guanajuato,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,3942,174.98,107.8,247.19,0.0444
+11,Guanajuato,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,20576,624.6,182.57,1067.81,0.0304
+11,Guanajuato,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,20576,964.15,227.69,1666.55,0.0469
+11,Guanajuato,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,20576,817.09,23.01,1608.4,0.0397
+11,Guanajuato,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,3942,174.96,107.78,247.14,0.0444
+11,Guanajuato,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,20576,623.28,182.18,1065.54,0.0303
+11,Guanajuato,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,20576,962.1,227.21,1662.97,0.0468
+11,Guanajuato,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,20576,815.36,22.96,1604.95,0.0396
+12,Guerrero,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,578,1.03,0.57,1.49,0.0018
+12,Guerrero,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,969,1.33,0.76,1.89,0.0014
+12,Guerrero,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,6231,11.34,1.81,20.12,0.0018
+12,Guerrero,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,6231,14.87,1.81,27.6,0.0024
+12,Guerrero,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,6231,14.87,1.81,27.6,0.0024
+12,Guerrero,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,578,1.02,0.56,1.47,0.0018
+12,Guerrero,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,969,1.31,0.75,1.87,0.0014
+12,Guerrero,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,6231,11.18,1.78,19.83,0.0018
+12,Guerrero,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,6231,14.66,1.78,27.21,0.0024
+12,Guerrero,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,6231,14.66,1.78,27.21,0.0024
+12,Guerrero,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,578,21.27,4.82,39.31,0.0368
+12,Guerrero,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,969,32.28,20.34,44.02,0.0333
+12,Guerrero,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,573,21.16,4.79,39.12,0.0369
+12,Guerrero,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,964,32.29,20.35,44.03,0.0335
+12,Guerrero,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,969,31.86,19.6,45.09,0.0329
+12,Guerrero,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,6231,132.27,38.55,226.77,0.0212
+12,Guerrero,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,6231,204.62,48.09,355.33,0.0328
+12,Guerrero,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,6231,173.24,4.85,342.8,0.0278
+12,Guerrero,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,969,31.85,19.59,45.08,0.0329
+12,Guerrero,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,6231,132.5,38.62,227.15,0.0213
+12,Guerrero,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,6231,204.97,48.18,355.92,0.0329
+12,Guerrero,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,6231,173.54,4.86,343.37,0.0279
+13,Hidalgo,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,385,1.48,0.82,2.13,0.0038
+13,Hidalgo,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,761,2.13,1.22,3.04,0.0028
+13,Hidalgo,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5880,23.54,3.76,41.73,0.004
+13,Hidalgo,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5880,30.86,3.76,57.22,0.0052
+13,Hidalgo,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5880,30.86,3.76,57.22,0.0052
+13,Hidalgo,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,385,1.53,0.85,2.21,0.004
+13,Hidalgo,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,761,2.21,1.27,3.15,0.0029
+13,Hidalgo,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5880,24.05,3.84,42.62,0.0041
+13,Hidalgo,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5880,31.52,3.84,58.44,0.0054
+13,Hidalgo,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5880,31.52,3.84,58.44,0.0054
+13,Hidalgo,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,385,17.49,3.98,32.22,0.0454
+13,Hidalgo,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,761,30.82,19.45,41.98,0.0405
+13,Hidalgo,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,383,17.84,4.06,32.84,0.0466
+13,Hidalgo,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,758,31.46,19.85,42.84,0.0415
+13,Hidalgo,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,761,48.42,30,67.97,0.0636
+13,Hidalgo,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5880,254.92,75.06,432.6,0.0434
+13,Hidalgo,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5880,391.28,93.54,668.47,0.0665
+13,Hidalgo,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5880,332.41,9.48,645.78,0.0565
+13,Hidalgo,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,761,48.73,30.2,68.41,0.064
+13,Hidalgo,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5880,255.9,75.36,434.24,0.0435
+13,Hidalgo,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5880,392.77,93.91,670.92,0.0668
+13,Hidalgo,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5880,333.68,9.52,648.15,0.0567
+14,Jalisco,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2168,8.89,4.91,12.81,0.0041
+14,Jalisco,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3547,9.52,5.46,13.54,0.0027
+14,Jalisco,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,14724,49.6,7.91,87.96,0.0034
+14,Jalisco,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,14724,65.03,7.91,120.65,0.0044
+14,Jalisco,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,14724,65.03,7.91,120.65,0.0044
+14,Jalisco,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2168,8.78,4.86,12.67,0.004
+14,Jalisco,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3547,9.4,5.39,13.37,0.0027
+14,Jalisco,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,14724,48.93,7.8,86.76,0.0033
+14,Jalisco,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,14724,64.14,7.8,119.01,0.0044
+14,Jalisco,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,14724,64.14,7.8,119.01,0.0044
+14,Jalisco,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2168,92.86,21.08,171.23,0.0428
+14,Jalisco,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3547,134.55,84.86,183.34,0.0379
+14,Jalisco,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2158,92.66,21.03,170.85,0.0429
+14,Jalisco,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3533,134.33,84.73,183.04,0.038
+14,Jalisco,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,3547,153.19,94.37,216.42,0.0432
+14,Jalisco,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,14724,395.19,115.38,676.39,0.0268
+14,Jalisco,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,14724,610.56,143.91,1057.33,0.0415
+14,Jalisco,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,14724,517.23,14.53,1020.28,0.0351
+14,Jalisco,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,3547,152.7,94.07,215.72,0.0431
+14,Jalisco,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,14724,393.95,115.02,674.26,0.0268
+14,Jalisco,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,14724,608.64,143.46,1054.01,0.0413
+14,Jalisco,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,14724,515.61,14.49,1017.07,0.035
+15,México,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2785,22.37,12.38,32.22,0.008
+15,México,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,4618,26.08,14.97,37.09,0.0056
+15,México,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,29343,218.34,34.88,386.48,0.0074
+15,México,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,29343,286.04,34.88,529.28,0.0097
+15,México,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,29343,286.04,34.88,529.28,0.0097
+15,México,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2785,22.19,12.29,31.96,0.008
+15,México,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,4618,25.85,14.84,36.77,0.0056
+15,México,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,29343,215.47,34.43,381.39,0.0073
+15,México,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,29343,282.27,34.43,522.32,0.0096
+15,México,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,29343,282.27,34.43,522.32,0.0096
+15,México,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2785,136.01,30.95,250.12,0.0488
+15,México,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,4618,202.63,127.95,275.79,0.0439
+15,México,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2778,136.56,31.08,251.1,0.0492
+15,México,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,4606,203.4,128.44,276.83,0.0442
+15,México,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,4618,432.12,269.59,602.19,0.0936
+15,México,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,29343,1785.96,529.5,3009.99,0.0609
+15,México,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,29343,2726.89,659.39,4607.91,0.0929
+15,México,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,29343,2321.93,67.07,4455.5,0.0791
+15,México,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,4618,432.2,269.66,602.25,0.0936
+15,México,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,29343,1783.47,528.8,3005.54,0.0608
+15,México,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,29343,2722.91,658.52,4600.58,0.0928
+15,México,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,29343,2318.6,66.98,4448.46,0.079
+16,Michoacán,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,380,1.16,0.64,1.67,0.0031
+16,Michoacán,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,682,1.53,0.88,2.18,0.0022
+16,Michoacán,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4778,16.26,2.59,28.83,0.0034
+16,Michoacán,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4778,21.32,2.59,39.55,0.0045
+16,Michoacán,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4778,21.32,2.59,39.55,0.0045
+16,Michoacán,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,380,1.15,0.64,1.66,0.003
+16,Michoacán,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,682,1.52,0.87,2.16,0.0022
+16,Michoacán,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4778,16.02,2.55,28.4,0.0034
+16,Michoacán,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4778,21,2.55,38.95,0.0044
+16,Michoacán,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4778,21,2.55,38.95,0.0044
+16,Michoacán,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,380,15.65,3.55,28.87,0.0412
+16,Michoacán,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,682,25.85,16.3,35.22,0.0379
+16,Michoacán,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,379,15.68,3.56,28.94,0.0414
+16,Michoacán,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,680,25.9,16.34,35.29,0.0381
+16,Michoacán,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,682,31.51,19.42,44.48,0.0462
+16,Michoacán,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4778,150.4,44,256.91,0.0315
+16,Michoacán,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4778,232.01,54.86,400.53,0.0486
+16,Michoacán,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4778,196.68,5.55,386.59,0.0412
+16,Michoacán,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,682,31.5,19.42,44.46,0.0462
+16,Michoacán,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4778,150.1,43.91,256.4,0.0314
+16,Michoacán,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4778,231.55,54.76,399.73,0.0485
+16,Michoacán,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4778,196.29,5.53,385.82,0.0411
+17,Morelos,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,546,3.57,1.98,5.15,0.0065
+17,Morelos,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,802,3.63,2.08,5.16,0.0045
+17,Morelos,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3674,20.56,3.28,36.42,0.0056
+17,Morelos,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3674,26.94,3.28,49.91,0.0073
+17,Morelos,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3674,26.94,3.28,49.91,0.0073
+17,Morelos,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,546,3.55,1.96,5.11,0.0065
+17,Morelos,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,802,3.59,2.06,5.11,0.0045
+17,Morelos,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3674,20.17,3.22,35.73,0.0055
+17,Morelos,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3674,26.43,3.22,48.97,0.0072
+17,Morelos,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3674,26.43,3.22,48.97,0.0072
+17,Morelos,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,546,26.41,6.01,48.56,0.0484
+17,Morelos,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,802,34.56,21.82,47.03,0.0431
+17,Morelos,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,545,26.52,6.04,48.75,0.0487
+17,Morelos,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,799,34.62,21.86,47.12,0.0433
+17,Morelos,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,802,56.73,35.2,79.54,0.0707
+17,Morelos,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3674,151.49,44.52,257.59,0.0412
+17,Morelos,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3674,232.88,55.49,399.09,0.0634
+17,Morelos,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3674,197.71,5.62,385.44,0.0538
+17,Morelos,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,802,56.59,35.11,79.33,0.0706
+17,Morelos,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3674,150.81,44.32,256.44,0.041
+17,Morelos,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3674,231.84,55.24,397.31,0.0631
+17,Morelos,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3674,196.83,5.6,383.72,0.0536
+18,Nayarit,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,372,0.72,0.4,1.04,0.0019
+18,Nayarit,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,633,0.83,0.48,1.19,0.0013
+18,Nayarit,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3276,5.28,0.84,9.36,0.0016
+18,Nayarit,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3276,6.92,0.84,12.84,0.0021
+18,Nayarit,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3276,6.92,0.84,12.84,0.0021
+18,Nayarit,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,372,0.7,0.39,1.01,0.0019
+18,Nayarit,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,633,0.82,0.47,1.17,0.0013
+18,Nayarit,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3276,5.21,0.83,9.24,0.0016
+18,Nayarit,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3276,6.83,0.83,12.68,0.0021
+18,Nayarit,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3276,6.83,0.83,12.68,0.0021
+18,Nayarit,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,372,14.24,3.23,26.32,0.0383
+18,Nayarit,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,633,21.29,13.42,29.04,0.0336
+18,Nayarit,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,369,14.15,3.21,26.15,0.0383
+18,Nayarit,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,630,21.23,13.38,28.96,0.0337
+18,Nayarit,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,633,17.32,10.63,24.56,0.0274
+18,Nayarit,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3276,54.65,15.88,93.98,0.0167
+18,Nayarit,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3276,84.74,19.82,147.84,0.0259
+18,Nayarit,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3276,71.68,2,142.57,0.0219
+18,Nayarit,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,633,17.29,10.61,24.52,0.0273
+18,Nayarit,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3276,54.63,15.88,93.93,0.0167
+18,Nayarit,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3276,84.7,19.81,147.76,0.0259
+18,Nayarit,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3276,71.64,2,142.5,0.0219
+19,Nuevo León,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,687,2.26,1.25,3.25,0.0033
+19,Nuevo León,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,996,2.22,1.27,3.15,0.0022
+19,Nuevo León,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4707,11.36,1.81,20.15,0.0024
+19,Nuevo León,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4707,14.89,1.81,27.64,0.0032
+19,Nuevo León,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4707,14.89,1.81,27.64,0.0032
+19,Nuevo León,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,687,2.24,1.24,3.23,0.0033
+19,Nuevo León,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,996,2.21,1.27,3.14,0.0022
+19,Nuevo León,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4707,11.4,1.82,20.22,0.0024
+19,Nuevo León,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4707,14.95,1.82,27.75,0.0032
+19,Nuevo León,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4707,14.95,1.82,27.75,0.0032
+19,Nuevo León,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,687,29.6,6.72,54.6,0.0431
+19,Nuevo León,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,996,38.02,23.98,51.81,0.0382
+19,Nuevo León,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,684,29.75,6.75,54.86,0.0435
+19,Nuevo León,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,991,38.19,24.09,52.05,0.0385
+19,Nuevo León,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,996,38.04,23.41,53.8,0.0382
+19,Nuevo León,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4707,109.07,31.81,186.92,0.0232
+19,Nuevo León,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4707,168.68,39.68,292.7,0.0358
+19,Nuevo León,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4707,142.83,4,282.39,0.0303
+19,Nuevo León,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,996,38.05,23.42,53.81,0.0382
+19,Nuevo León,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4707,109.2,31.84,187.13,0.0232
+19,Nuevo León,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4707,168.87,39.72,293.02,0.0359
+19,Nuevo León,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4707,143,4.01,282.71,0.0304
+20,Oaxaca,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,361,0.37,0.2,0.54,0.001
+20,Oaxaca,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,583,0.43,0.24,0.61,7e-4
+20,Oaxaca,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5408,5.91,0.94,10.49,0.0011
+20,Oaxaca,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5408,7.75,0.94,14.41,0.0014
+20,Oaxaca,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5408,7.75,0.94,14.41,0.0014
+20,Oaxaca,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,361,0.39,0.22,0.56,0.0011
+20,Oaxaca,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,583,0.45,0.26,0.64,8e-4
+20,Oaxaca,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5408,6.17,0.98,10.95,0.0011
+20,Oaxaca,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5408,8.09,0.98,15.03,0.0015
+20,Oaxaca,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5408,8.09,0.98,15.03,0.0015
+20,Oaxaca,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,361,12.28,2.78,22.73,0.034
+20,Oaxaca,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,583,17.89,11.27,24.41,0.0307
+20,Oaxaca,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,360,12.48,2.82,23.1,0.0347
+20,Oaxaca,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,582,18.21,11.47,24.84,0.0313
+20,Oaxaca,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,583,17.18,10.55,24.33,0.0295
+20,Oaxaca,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5408,116.97,34.1,200.52,0.0216
+20,Oaxaca,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5408,180.94,42.54,314.12,0.0335
+20,Oaxaca,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5408,153.2,4.29,303.05,0.0283
+20,Oaxaca,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,583,17.31,10.64,24.53,0.0297
+20,Oaxaca,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,5408,117.86,34.36,202.01,0.0218
+20,Oaxaca,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,5408,182.29,42.87,316.41,0.0337
+20,Oaxaca,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,5408,154.35,4.33,305.26,0.0285
+21,Puebla,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,522,2.11,1.17,3.05,0.004
+21,Puebla,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1021,2.87,1.64,4.08,0.0028
+21,Puebla,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,11918,44.37,7.08,78.66,0.0037
+21,Puebla,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,11918,58.16,7.08,107.87,0.0049
+21,Puebla,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,11918,58.16,7.08,107.87,0.0049
+21,Puebla,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,522,2.16,1.2,3.12,0.0041
+21,Puebla,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1021,2.93,1.68,4.18,0.0029
+21,Puebla,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,11918,45.33,7.23,80.36,0.0038
+21,Puebla,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,11918,59.42,7.23,110.21,0.005
+21,Puebla,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,11918,59.42,7.23,110.21,0.005
+21,Puebla,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,522,22.75,5.16,41.93,0.0436
+21,Puebla,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1021,39.82,25.12,54.25,0.039
+21,Puebla,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,520,23.18,5.26,42.71,0.0446
+21,Puebla,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1018,40.6,25.61,55.3,0.0399
+21,Puebla,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1021,46.99,28.96,66.35,0.046
+21,Puebla,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,11918,364.68,106.64,623.21,0.0306
+21,Puebla,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,11918,562.77,132.98,972.15,0.0472
+21,Puebla,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,11918,476.99,13.44,938.28,0.04
+21,Puebla,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1021,47.16,29.07,66.58,0.0462
+21,Puebla,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,11918,366.54,107.19,626.32,0.0308
+21,Puebla,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,11918,565.59,133.67,976.87,0.0475
+21,Puebla,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,11918,479.4,13.51,942.85,0.0402
+22,Querétaro,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,254,0.7,0.39,1.01,0.0028
+22,Querétaro,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,425,0.84,0.48,1.19,0.002
+22,Querétaro,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4535,12.78,2.04,22.67,0.0028
+22,Querétaro,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4535,16.76,2.04,31.11,0.0037
+22,Querétaro,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4535,16.76,2.04,31.11,0.0037
+22,Querétaro,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,254,0.7,0.39,1.01,0.0028
+22,Querétaro,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,425,0.84,0.48,1.19,0.002
+22,Querétaro,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4535,12.63,2.01,22.41,0.0028
+22,Querétaro,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4535,16.56,2.01,30.74,0.0037
+22,Querétaro,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4535,16.56,2.01,30.74,0.0037
+22,Querétaro,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,254,11.23,2.55,20.7,0.0442
+22,Querétaro,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,425,16.88,10.65,23,0.0397
+22,Querétaro,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,254,11.36,2.58,20.94,0.0447
+22,Querétaro,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,425,17.07,10.77,23.26,0.0402
+22,Querétaro,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,425,21.09,13.01,29.75,0.0496
+22,Querétaro,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4535,154.73,45.31,264.05,0.0341
+22,Querétaro,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4535,238.52,56.5,411.08,0.0526
+22,Querétaro,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4535,202.26,5.71,396.83,0.0446
+22,Querétaro,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,425,21.13,13.03,29.81,0.0497
+22,Querétaro,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,4535,154.86,45.35,264.24,0.0341
+22,Querétaro,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,4535,238.69,56.54,411.34,0.0526
+22,Querétaro,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,4535,202.41,5.72,397.09,0.0446
+23,Quintana Roo,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,367,0.17,0.1,0.25,5e-4
+23,Quintana Roo,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,666,0.22,0.13,0.32,3e-4
+23,Quintana Roo,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3512,1.57,0.25,2.79,4e-4
+23,Quintana Roo,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3512,2.06,0.25,3.83,6e-4
+23,Quintana Roo,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3512,2.06,0.25,3.83,6e-4
+23,Quintana Roo,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,367,0.17,0.09,0.25,5e-4
+23,Quintana Roo,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,666,0.22,0.13,0.31,3e-4
+23,Quintana Roo,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3512,1.55,0.25,2.76,4e-4
+23,Quintana Roo,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3512,2.04,0.25,3.79,6e-4
+23,Quintana Roo,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3512,2.04,0.25,3.79,6e-4
+23,Quintana Roo,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,367,11.57,2.61,21.44,0.0315
+23,Quintana Roo,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,666,18.76,11.81,25.62,0.0282
+23,Quintana Roo,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,365,11.5,2.6,21.33,0.0315
+23,Quintana Roo,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,664,18.72,11.78,25.55,0.0282
+23,Quintana Roo,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,666,15.89,9.76,22.53,0.0239
+23,Quintana Roo,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3512,59.69,17.39,102.38,0.017
+23,Quintana Roo,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3512,92.37,21.7,160.51,0.0263
+23,Quintana Roo,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3512,78.19,2.19,154.84,0.0223
+23,Quintana Roo,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,666,15.9,9.77,22.55,0.0239
+23,Quintana Roo,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3512,59.76,17.41,102.49,0.017
+23,Quintana Roo,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3512,92.47,21.72,160.69,0.0263
+23,Quintana Roo,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3512,78.28,2.19,155.01,0.0223
+24,San Luis Potosí,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,630,1.38,0.76,1.99,0.0022
+24,San Luis Potosí,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,881,1.37,0.79,1.95,0.0016
+24,San Luis Potosí,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3739,7.57,1.21,13.43,0.002
+24,San Luis Potosí,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3739,9.92,1.21,18.43,0.0027
+24,San Luis Potosí,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3739,9.92,1.21,18.43,0.0027
+24,San Luis Potosí,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,630,1.42,0.78,2.04,0.0023
+24,San Luis Potosí,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,881,1.4,0.8,2,0.0016
+24,San Luis Potosí,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3739,7.76,1.24,13.77,0.0021
+24,San Luis Potosí,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3739,10.18,1.24,18.9,0.0027
+24,San Luis Potosí,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3739,10.18,1.24,18.9,0.0027
+24,San Luis Potosí,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,630,27.34,6.21,50.41,0.0434
+24,San Luis Potosí,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,881,34.29,21.63,46.72,0.0389
+24,San Luis Potosí,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,628,27.72,6.3,51.09,0.0441
+24,San Luis Potosí,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,877,34.72,21.9,47.3,0.0396
+24,San Luis Potosí,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,881,35.62,21.94,50.35,0.0404
+24,San Luis Potosí,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3739,95.52,27.89,163.49,0.0255
+24,San Luis Potosí,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3739,147.58,34.79,255.57,0.0395
+24,San Luis Potosí,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3739,125.02,3.51,246.61,0.0334
+24,San Luis Potosí,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,881,35.81,22.05,50.6,0.0406
+24,San Luis Potosí,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,3739,95.93,28.01,164.17,0.0257
+24,San Luis Potosí,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,3739,148.19,34.94,256.59,0.0396
+24,San Luis Potosí,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,3739,125.55,3.53,247.6,0.0336
+25,Sinaloa,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,905,1.75,0.97,2.53,0.0019
+25,Sinaloa,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1239,1.55,0.89,2.21,0.0013
+25,Sinaloa,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,7040,10.84,1.73,19.24,0.0015
+25,Sinaloa,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,7040,14.22,1.73,26.42,0.002
+25,Sinaloa,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,7040,14.22,1.73,26.42,0.002
+25,Sinaloa,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,905,1.73,0.96,2.5,0.0019
+25,Sinaloa,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1239,1.53,0.88,2.18,0.0012
+25,Sinaloa,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,7040,10.67,1.7,18.93,0.0015
+25,Sinaloa,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,7040,13.99,1.7,25.99,0.002
+25,Sinaloa,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,7040,13.99,1.7,25.99,0.002
+25,Sinaloa,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,905,34.24,7.75,63.3,0.0378
+25,Sinaloa,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1239,41.54,26.18,56.67,0.0335
+25,Sinaloa,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,903,34.19,7.74,63.22,0.0379
+25,Sinaloa,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1236,41.48,26.14,56.58,0.0336
+25,Sinaloa,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1239,28.99,17.78,41.14,0.0234
+25,Sinaloa,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,7040,113.1,32.88,194.43,0.0161
+25,Sinaloa,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,7040,175.32,41.03,305.78,0.0249
+25,Sinaloa,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,7040,148.31,4.14,294.89,0.0211
+25,Sinaloa,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1239,28.94,17.75,41.07,0.0234
+25,Sinaloa,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,7040,112.95,32.84,194.18,0.016
+25,Sinaloa,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,7040,175.1,40.97,305.39,0.0249
+25,Sinaloa,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,7040,148.12,4.13,294.52,0.021
+26,Sonora,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,866,1.23,0.68,1.77,0.0014
+26,Sonora,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1613,1.54,0.88,2.19,0.001
+26,Sonora,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,9799,11.54,1.84,20.49,0.0012
+26,Sonora,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,9799,15.14,1.84,28.14,0.0015
+26,Sonora,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,9799,15.14,1.84,28.14,0.0015
+26,Sonora,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,866,1.21,0.67,1.74,0.0014
+26,Sonora,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1613,1.52,0.87,2.17,9e-4
+26,Sonora,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,9799,11.36,1.81,20.17,0.0012
+26,Sonora,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,9799,14.9,1.81,27.69,0.0015
+26,Sonora,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,9799,14.9,1.81,27.69,0.0015
+26,Sonora,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,866,34.86,7.9,64.39,0.0403
+26,Sonora,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1613,57.53,36.26,78.44,0.0357
+26,Sonora,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,863,34.75,7.88,64.19,0.0403
+26,Sonora,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1608,57.39,36.17,78.24,0.0357
+26,Sonora,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1613,29.96,18.36,42.57,0.0186
+26,Sonora,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,9799,128.85,37.49,221.4,0.0131
+26,Sonora,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,9799,199.66,46.78,348.16,0.0204
+26,Sonora,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,9799,168.92,4.72,335.75,0.0172
+26,Sonora,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1613,29.81,18.27,42.36,0.0185
+26,Sonora,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,9799,128.46,37.38,220.74,0.0131
+26,Sonora,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,9799,199.06,46.64,347.12,0.0203
+26,Sonora,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,9799,168.41,4.7,334.75,0.0172
+27,Tabasco,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2072,3.52,1.95,5.07,0.0017
+27,Tabasco,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3256,4.01,2.3,5.71,0.0012
+27,Tabasco,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,16110,30.77,4.91,54.52,0.0019
+27,Tabasco,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,16110,40.33,4.91,74.75,0.0025
+27,Tabasco,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,16110,40.33,4.91,74.75,0.0025
+27,Tabasco,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2072,3.92,2.17,5.66,0.0019
+27,Tabasco,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3256,4.44,2.55,6.32,0.0014
+27,Tabasco,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,16110,33.39,5.33,59.18,0.0021
+27,Tabasco,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,16110,43.76,5.33,81.13,0.0027
+27,Tabasco,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,16110,43.76,5.33,81.13,0.0027
+27,Tabasco,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2072,73.15,16.57,135.24,0.0353
+27,Tabasco,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3256,102.85,64.81,140.27,0.0316
+27,Tabasco,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,2064,74.69,16.92,138.04,0.0362
+27,Tabasco,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,3245,105.03,66.19,143.23,0.0324
+27,Tabasco,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,3256,162.66,100.71,228.59,0.05
+27,Tabasco,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,16110,591.07,174.13,1002.75,0.0367
+27,Tabasco,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,16110,907.02,216.99,1549.42,0.0563
+27,Tabasco,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,16110,770.63,22.01,1496.79,0.0478
+27,Tabasco,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,3256,163.97,101.54,230.4,0.0504
+27,Tabasco,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,16110,596.5,175.77,1011.78,0.037
+27,Tabasco,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,16110,915.22,219.02,1562.99,0.0568
+27,Tabasco,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,16110,777.64,22.22,1509.94,0.0483
+28,Tamaulipas,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1048,1.61,0.89,2.33,0.0015
+28,Tamaulipas,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1611,1.72,0.99,2.45,0.0011
+28,Tamaulipas,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,9993,14.82,2.36,26.31,0.0015
+28,Tamaulipas,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,9993,19.44,2.36,36.11,0.0019
+28,Tamaulipas,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,9993,19.44,2.36,36.11,0.0019
+28,Tamaulipas,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1048,1.72,0.95,2.48,0.0016
+28,Tamaulipas,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1611,1.85,1.06,2.63,0.0011
+28,Tamaulipas,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,9993,15.78,2.51,28.02,0.0016
+28,Tamaulipas,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,9993,20.7,2.51,38.46,0.0021
+28,Tamaulipas,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,9993,20.7,2.51,38.46,0.0021
+28,Tamaulipas,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1048,41.7,9.45,77.04,0.0398
+28,Tamaulipas,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1611,57.25,36.08,78.06,0.0355
+28,Tamaulipas,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1045,42.41,9.61,78.31,0.0406
+28,Tamaulipas,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,1608,58.33,36.77,79.52,0.0363
+28,Tamaulipas,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1611,48.94,30.06,69.36,0.0304
+28,Tamaulipas,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,9993,218.45,63.7,374.36,0.0219
+28,Tamaulipas,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,9993,337.83,79.46,586.27,0.0338
+28,Tamaulipas,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,9993,286.07,8.02,565.63,0.0286
+28,Tamaulipas,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,1611,49.17,30.21,69.69,0.0305
+28,Tamaulipas,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,9993,219.45,64,376.06,0.022
+28,Tamaulipas,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,9993,339.36,79.83,588.87,0.034
+28,Tamaulipas,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,9993,287.37,8.06,568.13,0.0288
+29,Tlaxcala,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,242,1.46,0.81,2.1,0.006
+29,Tlaxcala,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,329,1.39,0.8,1.98,0.0042
+29,Tlaxcala,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2997,16.53,2.64,29.29,0.0055
+29,Tlaxcala,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2997,21.67,2.64,40.15,0.0072
+29,Tlaxcala,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2997,21.67,2.64,40.15,0.0072
+29,Tlaxcala,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,242,1.45,0.8,2.1,0.006
+29,Tlaxcala,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,329,1.39,0.8,1.98,0.0042
+29,Tlaxcala,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2997,16.45,2.63,29.14,0.0055
+29,Tlaxcala,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2997,21.56,2.63,39.94,0.0072
+29,Tlaxcala,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2997,21.56,2.63,39.94,0.0072
+29,Tlaxcala,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,242,11.01,2.5,20.29,0.0455
+29,Tlaxcala,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,329,13.54,8.55,18.45,0.0412
+29,Tlaxcala,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,242,11.14,2.53,20.51,0.046
+29,Tlaxcala,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,329,13.69,8.64,18.64,0.0416
+29,Tlaxcala,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,329,18.32,11.32,25.79,0.0557
+29,Tlaxcala,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2997,109.47,32.09,186.57,0.0365
+29,Tlaxcala,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2997,168.58,40.01,289.96,0.0562
+29,Tlaxcala,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2997,143.01,4.05,279.96,0.0477
+29,Tlaxcala,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,329,18.43,11.39,25.94,0.056
+29,Tlaxcala,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2997,109.73,32.17,187,0.0366
+29,Tlaxcala,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2997,168.97,40.11,290.61,0.0564
+29,Tlaxcala,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2997,143.35,4.06,280.59,0.0478
+30,Veracruz,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1612,2.92,1.61,4.21,0.0018
+30,Veracruz,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,2642,3.37,1.93,4.79,0.0013
+30,Veracruz,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,19538,34.37,5.48,61,0.0018
+30,Veracruz,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,19538,45.08,5.48,83.73,0.0023
+30,Veracruz,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,19538,45.08,5.48,83.73,0.0023
+30,Veracruz,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1612,3.21,1.78,4.64,0.002
+30,Veracruz,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,2642,3.72,2.13,5.3,0.0014
+30,Veracruz,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,19538,38.12,6.07,67.64,0.002
+30,Veracruz,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,19538,49.98,6.07,92.84,0.0026
+30,Veracruz,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,19538,49.98,6.07,92.84,0.0026
+30,Veracruz,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1612,63.55,14.41,117.35,0.0394
+30,Veracruz,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,2642,92.36,58.22,125.92,0.035
+30,Veracruz,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,1606,65.48,14.85,120.85,0.0408
+30,Veracruz,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,2632,95.21,60.03,129.79,0.0362
+30,Veracruz,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,2642,108.18,66.64,152.85,0.0409
+30,Veracruz,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,19538,553.17,161.71,945.57,0.0283
+30,Veracruz,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,19538,853.8,201.67,1475.57,0.0437
+30,Veracruz,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,19538,723.6,20.38,1424.11,0.037
+30,Veracruz,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,2642,109.27,67.32,154.36,0.0414
+30,Veracruz,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,19538,558.7,163.35,954.87,0.0286
+30,Veracruz,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,19538,862.23,203.72,1489.75,0.0441
+30,Veracruz,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,19538,730.78,20.59,1437.82,0.0374
+31,Yucatán,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,295,0.27,0.15,0.38,9e-4
+31,Yucatán,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,471,0.29,0.17,0.41,6e-4
+31,Yucatán,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2704,2.08,0.33,3.69,8e-4
+31,Yucatán,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2704,2.73,0.33,5.07,0.001
+31,Yucatán,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2704,2.73,0.33,5.07,0.001
+31,Yucatán,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,295,0.26,0.15,0.38,9e-4
+31,Yucatán,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,471,0.29,0.16,0.41,6e-4
+31,Yucatán,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2704,2.05,0.33,3.64,8e-4
+31,Yucatán,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2704,2.69,0.33,5,0.001
+31,Yucatán,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2704,2.69,0.33,5,0.001
+31,Yucatán,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,295,9.56,2.16,17.72,0.0324
+31,Yucatán,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,471,13.41,8.44,18.3,0.0285
+31,Yucatán,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,295,9.58,2.16,17.75,0.0325
+31,Yucatán,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,470,13.4,8.43,18.29,0.0285
+31,Yucatán,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,471,11.61,7.13,16.47,0.0246
+31,Yucatán,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2704,52.17,15.21,89.41,0.0193
+31,Yucatán,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2704,80.68,18.98,140.03,0.0298
+31,Yucatán,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2704,68.32,1.92,135.1,0.0253
+31,Yucatán,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,471,11.66,7.16,16.54,0.0248
+31,Yucatán,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,2704,52.32,15.26,89.67,0.0193
+31,Yucatán,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,2704,80.92,19.03,140.44,0.0299
+31,Yucatán,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,2704,68.52,1.92,135.49,0.0253
+32,Zacatecas,NO2,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,388,0.59,0.33,0.86,0.0015
+32,Zacatecas,NO2,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,812,0.89,0.51,1.27,0.0011
+32,Zacatecas,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,6291,9.1,1.45,16.16,0.0014
+32,Zacatecas,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,6291,11.94,1.45,22.18,0.0019
+32,Zacatecas,NO2,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,6291,11.94,1.45,22.18,0.0019
+32,Zacatecas,NO2,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,388,0.59,0.33,0.85,0.0015
+32,Zacatecas,NO2,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,812,0.88,0.5,1.25,0.0011
+32,Zacatecas,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,6291,8.98,1.43,15.93,0.0014
+32,Zacatecas,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,6291,11.77,1.43,21.87,0.0019
+32,Zacatecas,NO2,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,6291,11.77,1.43,21.87,0.0019
+32,Zacatecas,O3,no_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,388,17.11,3.89,31.54,0.0441
+32,Zacatecas,O3,no_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,812,31.98,20.17,43.56,0.0394
+32,Zacatecas,O3,with_og,short_term,asthma,ed_visits,j45_j46,less20,zheng_2021,lineal,main,387,17.15,3.89,31.61,0.0443
+32,Zacatecas,O3,with_og,short_term,asthma,ed_visits,j45_j46,total,zheng_2021,lineal,main,808,31.95,20.15,43.52,0.0395
+32,Zacatecas,PM25,no_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,812,19.83,12.17,28.14,0.0244
+32,Zacatecas,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,6291,99.88,29.04,171.68,0.0159
+32,Zacatecas,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,6291,154.82,36.23,269.96,0.0246
+32,Zacatecas,PM25,no_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,6291,130.96,3.65,260.35,0.0208
+32,Zacatecas,PM25,with_og,short_term,asthma,ed_visits,j45_j46,total,ru_2023,lineal,main,812,19.8,12.15,28.1,0.0244
+32,Zacatecas,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lag0,lineal,sensitivity,6291,99.89,29.04,171.7,0.0159
+32,Zacatecas,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmax,lineal,sensitivity,6291,154.84,36.24,269.99,0.0246
+32,Zacatecas,PM25,with_og,short_term,cvd,ed_visits,i00_i99,total,ugalde_2022_lagmean,lineal,sensitivity,6291,130.98,3.65,260.38,0.0208

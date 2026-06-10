@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the Zenodo archive and the associated manuscript."
+title: "Air pollutant-attributable health burden of the oil and gas sector in Mexico — Data & Results"
+abstract: >-
+  Input data and attributable-burden results for a health impact assessment of
+  oil-and-gas-sector air pollution in Mexico, using a TROPOMI flux-divergence
+  approach to constrain emissions and concentration-response functions to
+  estimate the attributable mortality and morbidity burden.
+authors:
+  - family-names: Nawaz
+    given-names: M. Omar
+    affiliation: "School of Earth and Environmental Sciences, Cardiff University, Cardiff, Wales, UK"
+  - family-names: Cervantes
+    given-names: Karla
+    affiliation: "Independent consultant"
+  - family-names: Southerland
+    given-names: Veronica
+    affiliation: "Environmental Defense Fund, Washington, DC, USA"
+    email: veronica.tinney@gmail.com
+  - family-names: Cortez Lugo
+    given-names: Marlene
+    affiliation: "Instituto Nacional de Salud Pública, Cuernavaca, México"
+  - family-names: Goldberg
+    given-names: Daniel L.
+    affiliation: "George Washington University, Washington, DC, USA"
+  - family-names: Sanchez
+    given-names: Sergio
+    affiliation: "Environmental Defense Fund, Washington, DC, USA"
+  - family-names: Riojas Rodriguez
+    given-names: Horacio
+    affiliation: "Instituto Nacional de Salud Pública, Cuernavaca, México"
+keywords:
+  - air pollution
+  - health impact assessment
+  - oil and gas
+  - Mexico
+  - TROPOMI
+  - flux divergence
+  - environmental justice
+license: CC-BY-4.0
