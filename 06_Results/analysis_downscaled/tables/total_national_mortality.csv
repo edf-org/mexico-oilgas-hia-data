@@ -1,0 +1,11 @@
+Pollutant,Cause,Age,Reference,crf_type,baseline_deaths,attributable_deaths,ci95,attrib_fraction_pct,rate_per_100k
+NO2,All-cause,Adults 25+,kasdagli_2024,lineal,677132,31525,19579-42688,5,41
+NO2,COPD,Adults 25+,kasdagli_2024,lineal,18490,763,396-1104,4,1
+NO2,Cardiovascular disease,Adults 25+,kasdagli_2024,lineal,221470,10027,6228-15263,5,13
+NO2,Ischemic heart disease,Adults 25+,kasdagli_2024,lineal,136628,5971,3708-9094,4,8
+O3,COPD,Adults 25+,kasdagli_2024,lineal,18490,8189,4757-9940,44,11
+O3,COPD,All ages,gbd_2021,lineal,18510,5678,1274-8925,31,4
+O3,Respiratory disease,Adults 25+,kasdagli_2024,lineal,65127,25116,11711-34870,39,32
+PM25,All-cause,Adults 25+,orellano_2024,lineal,677132,75961,53157-97775,11,98
+PM25,Cardiovascular disease,Adults 25+,orellano_2024,lineal,221470,31576,26113-36733,14,41
+PM25,All-cause,Adults 25+,eschif+fusion,non-linear,677132,78322,69423-87227,12,101

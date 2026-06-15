@@ -1,0 +1,19 @@
+Pollutant,Cause,Outcome,Reference,total_all_source,og_significant,og_full_country,n_sig_munis,og_share_of_total_pct
+NO2,Asthma,Emergency department visits,zheng_2021,567,3,-1,813,0.47
+NO2,Asthma,Emergency department visits,zheng_2021,651,3,-1,813,0.47
+NO2,Cardiovascular disease,Emergency department visits,ugalde_2022_lag0,3657,24,-6,813,0.66
+NO2,Cardiovascular disease,Emergency department visits,ugalde_2022_lagmax,4763,32,-8,813,0.67
+NO2,Cardiovascular disease,Emergency department visits,ugalde_2022_lagmean,4763,32,-8,813,0.67
+PM25,Asthma,Emergency department visits,ru_2023,2452,4,2,965,0.17
+PM25,Cardiovascular disease,Emergency department visits,ugalde_2022_lag0,8751,19,9,965,0.22
+PM25,Cardiovascular disease,Emergency department visits,ugalde_2022_lagmax,13446,29,14,965,0.21
+PM25,Cardiovascular disease,Emergency department visits,ugalde_2022_lagmean,11418,25,12,965,0.22
+NO2,Asthma,Incidence,khreis_2017,7633,41,-1,813,0.53
+PM25,Asthma,Incidence,khreis_2017,21406,33,23,965,0.15
+NO2,All-cause,Mortality,kasdagli_2024,31525,128,-64,813,0.41
+NO2,COPD,Mortality,kasdagli_2024,763,2,-2,813,0.32
+NO2,Cardiovascular disease,Mortality,kasdagli_2024,10027,45,-16,813,0.45
+NO2,Ischemic heart disease,Mortality,kasdagli_2024,5971,29,-7,813,0.49
+PM25,All-cause,Mortality,eschif+fusion,78322,113,30,965,0.14
+PM25,All-cause,Mortality,orellano_2024,75961,116,77,965,0.15
+PM25,Cardiovascular disease,Mortality,orellano_2024,31576,51,36,965,0.16

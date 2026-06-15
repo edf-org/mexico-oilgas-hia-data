@@ -1,0 +1,36 @@
+endpoint,subgroup,subgroup_pop,pop_wtd_exposure,attrib_rate_per_100k,rate_ratio_vs_total,attrib_fraction_pct
+NO₂ all-cause mortality,Total population,132200786,9.2,38,1,4
+NO₂ all-cause mortality,Adults 25+,77703127,9.9,41,1.08,5
+NO₂ all-cause mortality,Adults 65+,11210884,10.6,45,1.19,5
+NO₂ all-cause mortality,Indigenous households,11800247,4.3,18,0.48,2
+NO₂ all-cause mortality,Indigenous language speakers,7364645,3.4,15,0.39,2
+NO₂ all-cause mortality,"Indigenous lang speakers, no Spanish",865972,1.7,7,0.18,1
+NO₂ all-cause mortality,Afro-Mexican,2576213,8.9,36,0.97,4
+O₃ respiratory mortality,Total population,132200786,98.8,32,1,38
+O₃ respiratory mortality,Adults 25+,77703127,99.2,32,1.02,38
+O₃ respiratory mortality,Adults 65+,11210884,99.4,34,1.09,38
+O₃ respiratory mortality,Indigenous households,11800247,89.1,27,0.86,34
+O₃ respiratory mortality,Indigenous language speakers,7364645,87.6,27,0.85,34
+O₃ respiratory mortality,"Indigenous lang speakers, no Spanish",865972,82.1,26,0.81,31
+O₃ respiratory mortality,Afro-Mexican,2576213,95.5,30,0.95,37
+PM₂.₅ all-cause mortality,Total population,162491598,12.5,94,1,11
+PM₂.₅ all-cause mortality,Adults 25+,94901502,12.7,96,1.02,11
+PM₂.₅ all-cause mortality,Adults 65+,13835241,12.8,101,1.08,11
+PM₂.₅ all-cause mortality,Indigenous households,17524876,11,89,0.95,9
+PM₂.₅ all-cause mortality,Indigenous language speakers,11256137,10.6,87,0.93,9
+PM₂.₅ all-cause mortality,"Indigenous lang speakers, no Spanish",1358112,9.8,73,0.78,8
+PM₂.₅ all-cause mortality,Afro-Mexican,3434715,11.4,85,0.91,10
+PM₂.₅ cardiovascular mortality,Total population,132200786,13,40,1,14
+PM₂.₅ cardiovascular mortality,Adults 25+,77703127,13.2,41,1.02,14
+PM₂.₅ cardiovascular mortality,Adults 65+,11210884,13.4,44,1.1,14
+PM₂.₅ cardiovascular mortality,Indigenous households,11800247,11.2,39,0.97,12
+PM₂.₅ cardiovascular mortality,Indigenous language speakers,7364645,10.7,38,0.96,12
+PM₂.₅ cardiovascular mortality,"Indigenous lang speakers, no Spanish",865972,9.6,31,0.77,11
+PM₂.₅ cardiovascular mortality,Afro-Mexican,2576213,12.3,38,0.95,13
+PM₂.₅ pediatric asthma incidence,Total population,132200786,13,56,1,28
+PM₂.₅ pediatric asthma incidence,Adults 25+,77703127,13.2,61,1.08,29
+PM₂.₅ pediatric asthma incidence,Adults 65+,11210884,13.4,67,1.19,29
+PM₂.₅ pediatric asthma incidence,Indigenous households,11800247,11.2,34,0.6,22
+PM₂.₅ pediatric asthma incidence,Indigenous language speakers,7364645,10.7,29,0.51,20
+PM₂.₅ pediatric asthma incidence,"Indigenous lang speakers, no Spanish",865972,9.6,13,0.22,17
+PM₂.₅ pediatric asthma incidence,Afro-Mexican,2576213,12.3,54,0.96,27

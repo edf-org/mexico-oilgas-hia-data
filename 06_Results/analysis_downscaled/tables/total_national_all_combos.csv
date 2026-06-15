@@ -1,0 +1,24 @@
+Pollutant,Cause,Outcome,Age,Reference,crf_type,baseline_cases,total_ab_mean,total_ab_lower,total_ab_upper,attrib_fraction_pct,attrib_rate_per_100k,population_at_risk
+NO2,Asthma,Emergency department visits,All ages,zheng_2021,lineal,47305,651,376,918,1,0,132274416
+NO2,Asthma,Emergency department visits,Under 20,zheng_2021,lineal,28568,567,317,807,2,1,43330213
+NO2,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lagmax,lineal,264191,4763,594,8631,2,4,132274416
+NO2,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lagmean,lineal,264191,4763,594,8631,2,4,132274416
+NO2,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lag0,lineal,264191,3657,594,6379,1,3,132274416
+NO2,Asthma,Incidence,Under 20,khreis_2017,lineal,75434,7633,3452,9835,10,18,43330213
+NO2,All-cause,Mortality,Adults 25+,kasdagli_2024,lineal,677132,31525,19579,42688,5,41,77742387
+NO2,COPD,Mortality,Adults 25+,kasdagli_2024,lineal,18490,763,396,1104,4,1,77742387
+NO2,Cardiovascular disease,Mortality,Adults 25+,kasdagli_2024,lineal,221470,10027,6228,15263,5,13,77742387
+NO2,Ischemic heart disease,Mortality,Adults 25+,kasdagli_2024,lineal,136628,5971,3708,9094,4,8,77742387
+O3,Asthma,Emergency department visits,All ages,zheng_2021,lineal,47142,3474,2208,4699,7,3,132274416
+O3,Asthma,Emergency department visits,Under 20,zheng_2021,lineal,28470,2342,541,4236,8,5,43330213
+O3,COPD,Mortality,Adults 25+,kasdagli_2024,lineal,18490,8189,4757,9940,44,11,77742387
+O3,COPD,Mortality,All ages,gbd_2021,lineal,18510,5678,1274,8925,31,4,132274416
+O3,Respiratory disease,Mortality,Adults 25+,kasdagli_2024,lineal,65127,25116,11711,34870,39,32,77742387
+PM25,Asthma,Emergency department visits,All ages,ru_2023,lineal,47305,2452,1520,3440,5,2,132274416
+PM25,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lagmax,lineal,264191,13446,3207,23027,5,10,132274416
+PM25,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lagmean,lineal,264191,11418,325,22240,4,9,132274416
+PM25,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lag0,lineal,264191,8751,2573,14871,3,7,132274416
+PM25,Asthma,Incidence,Under 20,khreis_2017,lineal,75434,21406,8055,31383,28,49,43330213
+PM25,All-cause,Mortality,Adults 25+,eschif+fusion,non-linear,677132,78322,69423,87227,12,101,77742387
+PM25,All-cause,Mortality,Adults 25+,orellano_2024,lineal,677132,75961,53157,97775,11,98,77742387
+PM25,Cardiovascular disease,Mortality,Adults 25+,orellano_2024,lineal,221470,31576,26113,36733,14,41,77742387

@@ -1,0 +1,14 @@
+Pollutant,Cause,Outcome,Age,Reference,baseline_cases,attributable_cases,ci95,attrib_fraction_pct,rate_per_100k
+NO2,Asthma,Emergency department visits,Under 20,zheng_2021,28568,567,317-807,2,1
+NO2,Asthma,Emergency department visits,All ages,zheng_2021,47305,651,376-918,1,0
+NO2,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lag0,264191,3657,594-6379,1,3
+NO2,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lagmax,264191,4763,594-8631,2,4
+NO2,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lagmean,264191,4763,594-8631,2,4
+O3,Asthma,Emergency department visits,Under 20,zheng_2021,28470,2342,541-4236,8,5
+O3,Asthma,Emergency department visits,All ages,zheng_2021,47142,3474,2208-4699,7,3
+PM25,Asthma,Emergency department visits,All ages,ru_2023,47305,2452,1520-3440,5,2
+PM25,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lag0,264191,8751,2573-14871,3,7
+PM25,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lagmax,264191,13446,3207-23027,5,10
+PM25,Cardiovascular disease,Emergency department visits,All ages,ugalde_2022_lagmean,264191,11418,325-22240,4,9
+NO2,Asthma,Incidence,Under 20,khreis_2017,75434,7633,3452-9835,10,18
+PM25,Asthma,Incidence,Under 20,khreis_2017,75434,21406,8055-31383,28,49

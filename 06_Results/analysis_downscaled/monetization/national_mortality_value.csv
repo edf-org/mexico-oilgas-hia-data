@@ -1,0 +1,8 @@
+pollutant,endpoint,primary,deaths,value_usd
+PM25,PM₂.₅ all-cause,TRUE,75961,171672162330.706
+NO2,NO₂ all-cause,TRUE,31525,71246313247.2172
+O3,O₃ respiratory,TRUE,25116,56762533518.7579
+PM25,PM₂.₅ cardiovascular (subset),FALSE,31576,71362841270.8485
+NO2,NO₂ cardiovascular (subset),FALSE,10027,22660015711.9961
+NO2,NO₂ ischemic heart (subset),FALSE,5971,13494556784.247
+O3,O₃ COPD GBD (subset),FALSE,5678,12831439092.9511

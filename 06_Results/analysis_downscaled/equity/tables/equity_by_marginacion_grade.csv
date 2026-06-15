@@ -1,0 +1,26 @@
+endpoint,marginacion_grade,n_muni,population,pop_wtd_exposure,attributable_burden,attrib_fraction_pct,attrib_rate_per_100k,og_significant_deaths,og_rate_per_100k
+PM₂.₅ all-cause mortality,Very low,752,64158753,13.7,62637,11,98,75,0.12
+PM₂.₅ all-cause mortality,Low,706,13159500,11,11938,9,91,58,0.44
+PM₂.₅ all-cause mortality,Medium,744,8160514,10.9,7972,9,98,47,0.57
+PM₂.₅ all-cause mortality,High,914,6797718,10.4,6399,9,94,39,0.57
+PM₂.₅ all-cause mortality,Very high,318,2625017,9.3,1897,8,72,11,0.42
+PM₂.₅ cardiovascular mortality,Very low,655,57314337,14.1,23196,15,40,15,0.03
+PM₂.₅ cardiovascular mortality,Low,530,9143687,11.3,3615,13,40,12,0.13
+PM₂.₅ cardiovascular mortality,Medium,494,5316497,10.9,2379,12,45,11,0.21
+PM₂.₅ cardiovascular mortality,High,586,4269474,10.4,1865,12,44,10,0.22
+PM₂.₅ cardiovascular mortality,Very high,204,1659132,9,522,10,31,3,0.18
+NO₂ all-cause mortality,Very low,655,57314337,12.6,29076,6,51,56,0.1
+NO₂ all-cause mortality,Low,530,9143687,3.1,1320,2,14,25,0.28
+NO₂ all-cause mortality,Medium,494,5316497,2.3,606,1,11,21,0.4
+NO₂ all-cause mortality,High,586,4269474,1.9,417,1,10,20,0.47
+NO₂ all-cause mortality,Very high,204,1659132,1.5,106,1,6,6,0.34
+O₃ respiratory mortality,Very low,655,57314337,102.1,19236,39,34,0,0
+O₃ respiratory mortality,Low,530,9143687,94.1,2755,37,30,0,0
+O₃ respiratory mortality,Medium,494,5316497,90.2,1521,35,29,0,0
+O₃ respiratory mortality,High,586,4269474,87.7,1199,33,28,0,0
+O₃ respiratory mortality,Very high,204,1659132,85.3,405,32,24,0,0
+PM₂.₅ pediatric asthma incidence,Very low,655,29108856,13.3,17784,30,61,19,0.07
+PM₂.₅ pediatric asthma incidence,Low,530,5664283,11.4,1912,24,34,6,0.11
+PM₂.₅ pediatric asthma incidence,Medium,494,3584643,11,981,21,27,4,0.11
+PM₂.₅ pediatric asthma incidence,High,586,3224845,10.5,571,18,18,3,0.09
+PM₂.₅ pediatric asthma incidence,Very high,204,1719268,8.9,159,16,9,1,0.04

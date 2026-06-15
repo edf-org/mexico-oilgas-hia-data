@@ -1,0 +1,6 @@
+pollutant,endpoint,unit,cases,value_usd
+NO2,NO₂ asthma ED visits,asthma_ed,651,517315.704907602
+O3,O₃ asthma ED visits,asthma_ed,3474,2761836.06593316
+PM25,PM₂.₅ asthma ED visits,asthma_ed,2452,1949170.10066659
+NO2,NO₂ pediatric asthma cases,asthma_inc,7633,8777777.75429713
+PM25,PM₂.₅ pediatric asthma cases,asthma_inc,21406,24617202.4196543
